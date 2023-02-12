@@ -84,7 +84,8 @@ server <- function(input, output) {
       coord_flip() +
       theme(legend.position = "none") +
       xlab(NULL) +
-      labs(title = "How does Ethiopian Coffee Compare?")
+      ylab("Difference from Mean") +
+      labs(title = str_c("How does ",input$v_country," Coffee Compare?"))
   })
   
   

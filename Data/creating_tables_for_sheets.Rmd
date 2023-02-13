@@ -1,0 +1,73 @@
+---
+title: "Google Sheet Prep"
+output: html_notebook
+---
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+Reading in Data
+
+
+```{r, message = FALSE}
+library(tidyverse)
+library(countrycode)
+library(here)
+coffee_ratings <- readr::read_csv('https://raw.githubusercontent.com/rfordatascience/tidytuesday/master/data/2020/2020-07-07/coffee_ratings.csv')
+coffee_ratings %>% glimpse
+```
+
+```{r}
+coffee_large <- coffee_ratings %>%
+  select(species,country_of_origin,region, harvest_year, aroma:cupper_points, moisture, color) %>%
+  drop_na()
+
+write_csv(coffee_large,here("Data/coffee_large.csv"))
+```
+
+
+
+
+
+
+Creating table for sheet, with ratings sorted by country and continent
+
+```{r table_ratings}
+
+table_point_ratings <- coffee_ratings %>%
+  select(country_of_origin,aroma:cupper_points) %>%
+  drop_na()
+  
+## Adding continent column
+
+country_names <- tibble(Country = unique(coffee_ratings$country_of_origin))
+
+country_names$Continent <- countrycode(sourcevar = country_names$Country,
+                            origin = "country.name",
+                            destination = "continent")
+
+country_names <- country_names %>%
+  mutate(Continent = ifelse(str_detect(Country, "Mexico|^United States|Canada"), "North America", Continent)) %>%
+  mutate(country_of_origin = Country) %>%
+  select(country_of_origin, Continent) %>%
+  drop_na()
+
+ratings_table <- left_join(table_point_ratings, country_names, by = c("country_of_origin" = "country_of_origin"))
+
+ratings_table <- ratings_table %>%
+  gather(-country_of_origin,-Continent, key = "Category", value = "Rating")
+
+write_csv(ratings_table,"ratings_table_longer.csv")
+
+## Make wider
+
+ratings_table_wide <- ratings_table %>%
+  group_by(country_of_origin,Category) %>%
+  summarise(Rating = round(mean(Rating),2)) %>%
+  pivot_wider(names_from = Category, values_from = Rating)
+
+write_csv(ratings_table_wide, "ratings_table_wide.csv")
+```
+
+

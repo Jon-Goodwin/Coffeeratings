@@ -1,0 +1,1080 @@
+species,country_of_origin,region,harvest_year,aroma,flavor,aftertaste,acidity,body,balance,uniformity,clean_cup,sweetness,cupper_points,moisture,color
+Arabica,Ethiopia,guji-hambela,2014,8.67,8.83,8.67,8.75,8.5,8.42,10,10,10,8.75,0.12,Green
+Arabica,Ethiopia,guji-hambela,2014,8.75,8.67,8.5,8.58,8.42,8.42,10,10,10,8.58,0.12,Green
+Arabica,Ethiopia,oromia,2014,8.17,8.58,8.42,8.42,8.5,8.25,10,10,10,8.67,0.11,Green
+Arabica,Ethiopia,guji-hambela,2014,8.25,8.5,8.25,8.5,8.42,8.33,10,10,10,8.58,0.12,Green
+Arabica,Ethiopia,"snnp/kaffa zone,gimbowereda",2014,8.08,8.58,8.5,8.5,7.67,8.42,10,10,10,8.5,0.1,Green
+Arabica,China,yunnan,2015,8.42,8.25,8.08,8.17,7.92,8,10,10,10,8.42,0.1,Green
+Arabica,United States,antioquia,2014,8,8.25,8.08,8.5,8.25,8,10,10,10,8.17,0,None
+Arabica,Costa Rica,san ramon,2014,8.08,8.25,8,8.17,8,8.33,10,10,10,8.33,0.11,Green
+Arabica,Mexico,xalapa,2012,8.17,8.25,8.17,8,7.83,8.17,10,10,10,8.58,0.13,Green
+Arabica,Ethiopia,sidamo,2013,8.42,8.17,7.92,8.17,8.33,8,10,10,10,8.08,0.11,Bluish-Green
+Arabica,Brazil,south of minas,2011,8.5,8.5,8,8,8,8,10,10,10,7.92,0.12,Green
+Arabica,Uganda,kapchorwa eastern,2013,8.42,8.17,8.17,8.17,7.83,7.92,10,10,10,8.17,0.12,Green
+Arabica,Honduras,comayagua,2016,8.17,8.08,8.08,8,8.08,8,10,10,10,8.25,0.1,Green
+Arabica,Taiwan,"leye, alishan township, chiayi county",2015,8,8,8,8.25,8,8.17,10,10,10,8.17,0,Green
+Arabica,Brazil,vale da grama,2011,8.5,8.17,8,7.75,8,8,10,10,10,8,0.12,Green
+Arabica,Costa Rica,west and central valley,2015/2016,8.17,7.83,8,8.08,7.83,8,10,10,10,8.42,0,Blue-Green
+Arabica,Ethiopia,oromia,2014,8,8.08,7.92,8,8.08,8.08,10,10,10,8.08,0.1,Green
+Arabica,Kenya,muranga,2013,8.08,8,8,8.25,7.92,7.92,10,10,10,8.08,0.12,Blue-Green
+Arabica,Thailand,chiang rai,2012,7.83,8.33,7.83,8.25,7.58,7.92,10,10,10,8.42,0.1,Green
+Arabica,Taiwan,natou county,2015,8.08,8.17,7.75,8.08,7.75,7.83,10,10,10,8.42,0.12,Green
+Arabica,Kenya,nyeri,2014,8.08,8.08,8,8,7.83,8.08,10,10,10,8,0.11,Bluish-Green
+Arabica,Brazil,south of minas,2011,8.33,8,8,8,7.75,8,10,10,10,8,0.11,Blue-Green
+Arabica,Colombia,tolima,2013,7.75,7.92,7.83,8.08,8.08,8.17,10,10,10,8.17,0.12,Green
+Arabica,Kenya,kiambu,2013,7.92,8.17,7.83,8.5,7.5,7.92,10,10,10,8.17,0.11,Green
+Arabica,Uganda,"sipi, mt elgon",2012,8.25,8,7.83,8.08,8,7.92,10,10,10,7.92,0.1,Blue-Green
+Arabica,Guatemala,nuevo oriente,2016,7.92,8.08,7.92,8.08,8.08,7.83,10,10,10,8,0.1,Green
+Arabica,Uganda,eastern,2013,8.17,8.17,7.92,8.08,7.83,7.75,10,10,10,8,0.12,Green
+Arabica,Colombia,huila,2013,8,8,8,8.17,7.83,8,10,10,10,7.92,0,Blue-Green
+Arabica,Panama,boquete,2017,8,8,7.92,8.08,7.83,8,10,10,10,8,0.08,Bluish-Green
+Arabica,Ethiopia,oromia,2014,7.83,8.08,7.92,8.08,8,7.92,10,10,10,8,0.1,Green
+Arabica,Guatemala,acatenango,2012,7.83,8,8,8.17,7.83,8,10,10,10,8,0.12,Green
+Arabica,Guatemala,nuevo oriente,2012,8,8,7.83,8.33,7.83,7.83,10,10,10,8,0.1,Bluish-Green
+Arabica,Ethiopia,addis ababa,2017,7.83,8,7.83,8.17,7.92,8,10,10,10,8,0.09,None
+Arabica,Peru,cajamarca,2013,8,8,8,8.08,7.92,7.75,10,10,10,8,0.1,Green
+Arabica,Papua New Guinea,eastern highlands province,2012,8.33,8.42,7.83,8.33,8,8.25,9.33,9.33,10,7.92,0.12,Bluish-Green
+Arabica,El Salvador,apaneca,2013,7.92,8.17,8,7.92,7.75,7.83,10,10,10,8,0.1,Blue-Green
+Arabica,El Salvador,"ataco, apaneca - ilamatepec mountain range",2012,7.83,8,8,7.75,7.92,8.17,10,10,10,7.92,0.11,None
+Arabica,Kenya,kirinyaga,2014,7.92,7.92,7.83,8.08,7.83,7.92,10,10,10,8,0.1,Green
+Arabica,Ethiopia,oromia,2015,7.83,8,7.83,7.92,7.83,8.08,10,10,10,8,0.12,Green
+Arabica,Uganda,bulambuli eastern region,2013,8.33,7.92,7.67,7.92,7.67,7.92,10,10,10,8.08,0.12,Green
+Arabica,Guatemala,huehuetenango,2013,8,7.83,7.67,8.33,7.83,8,10,10,10,7.83,0.11,Green
+Arabica,Ethiopia,oromia,2015,7.75,7.83,7.83,8.17,7.92,7.83,10,10,10,8.08,0.1,Green
+Arabica,Uganda,kapchorwa,2013,8.08,8,7.83,7.67,8,7.83,10,10,10,8,0.12,Green
+Arabica,Brazil,south of minas,2011,8,8,8,7.67,7.75,8,10,10,10,8,0.11,Blue-Green
+Arabica,China,yunnan,2015,8,8,8,7.83,7.83,7.75,10,10,10,7.92,0.1,Green
+Arabica,Guatemala,huehuetenango,2014,7.83,7.75,7.83,7.67,7.83,8.58,10,10,10,7.83,0.11,Green
+Arabica,Costa Rica,west valley,2014,7.92,8.08,8,7.92,8,8.08,10,10,9.33,8,0,Bluish-Green
+Arabica,Costa Rica,san ramon,2014,8,7.58,7.58,7.67,8.08,8.5,10,10,10,7.92,0.1,Bluish-Green
+Arabica,Kenya,central kenya,2012,7.83,8.08,7.75,8.08,7.92,7.75,10,10,10,7.92,0,Green
+Arabica,Kenya,central kenya,2012,8,7.92,7.92,8.08,7.83,7.75,10,10,10,7.83,0,Green
+Arabica,Guatemala,oriente,2016,8,7.92,7.75,8,7.92,7.83,10,10,10,7.83,0.1,Green
+Arabica,Colombia,santander,2015,8.17,7.92,7.83,8,7.58,7.83,10,10,10,7.92,0.11,Green
+Arabica,Colombia,santander,2014,7.58,8.08,7.92,7.83,8,7.92,10,10,10,7.92,0.12,Green
+Arabica,Indonesia,lintong,2012,7.75,7.83,7.67,8,8.08,7.83,10,10,10,8,0.11,Green
+Arabica,Ethiopia,"kefa zone, gimbo distict, at a place called woka araba, south west ethiopia.",2016,7.75,8,7.58,8,8,7.92,10,10,10,7.83,0.11,Green
+Arabica,Ethiopia,aricha,2014,8.42,8,7.42,8,7.92,7.92,9.33,10,10,8.08,0.1,Green
+Arabica,United States (Hawaii),kona,2014,7.58,7.83,7.83,7.92,7.83,8.17,10,10,10,7.92,0.11,Bluish-Green
+Arabica,Colombia,cundinamarca,2012,7.83,8,7.75,7.75,7.83,7.83,10,10,10,8.08,0.11,Green
+Arabica,Uganda,eastern uganda,2016,8.17,7.92,7.75,7.75,7.67,7.75,10,10,10,8,0.11,Green
+Arabica,Colombia,huila,2016,8,7.92,7.75,7.92,7.75,7.83,10,10,10,7.83,0,Green
+Arabica,Costa Rica,tarrazu,2016,7.83,8,7.58,7.92,7.92,7.83,10,10,10,7.92,0.12,Green
+Arabica,Mexico,veracruz,2015,7.83,8,7.83,7.75,7.67,7.83,10,10,10,8.08,0.09,Green
+Arabica,Kenya,central kenya,2012,7.75,7.83,7.75,8.08,8,7.75,10,10,10,7.83,0,Green
+Arabica,Brazil,grama valley,2012,8,8,7.83,7.83,7.67,7.67,10,10,10,8,0.12,Green
+Arabica,Colombia,huila,2015,7.92,7.83,7.75,7.83,7.75,8,10,10,10,7.83,0.12,Green
+Arabica,Taiwan,natou county,2015,7.67,7.83,8,7.58,8,7.92,10,10,10,7.92,0.11,Green
+Arabica,"Tanzania, United Republic Of",mbeya,2014,8,7.83,7.83,7.92,7.75,7.75,10,10,10,7.83,0.12,Green
+Arabica,Colombia,huila,2012,7.75,7.92,7.83,7.75,7.75,8,10,10,10,7.92,0.11,Green
+Arabica,Brazil,south of minas,2011,8,7.92,7.75,7.75,8,7.75,10,10,10,7.75,0.11,Green
+Arabica,Brazil,south of minas,2011,8,8,7.75,8,7.5,7.75,10,10,10,7.92,0.12,Green
+Arabica,Taiwan,"dongshan dist., tainan city 臺南市東山區",2016,7.92,7.58,7.83,7.83,7.83,7.83,10,10,10,8,0,Green
+Arabica,Uganda,eastern,2013,7.75,7.92,7.67,7.67,8.25,7.75,10,10,10,7.83,0.12,Green
+Arabica,Thailand,thailand,2015,7.75,7.75,7.75,7.75,8,7.75,10,10,10,8,0.12,Green
+Arabica,Kenya,nyeri,2014,7.92,7.83,7.58,7.92,7.75,7.83,10,10,10,7.92,0.13,Green
+Arabica,Honduras,marcala,2014,7.83,7.75,8,7.67,7.67,7.67,10,10,10,8.17,0.11,Green
+Arabica,El Salvador,apaneca,2016,7.83,7.83,7.5,8,7.83,7.67,10,10,10,8,0,Blue-Green
+Arabica,Indonesia,"temanggung, indonesia",2016,7.92,7.83,7.75,7.75,7.75,7.75,10,10,10,7.92,0.12,Green
+Arabica,Costa Rica,tarrazu,2015,8.08,7.75,7.67,7.83,7.5,7.92,10,10,10,7.92,0.1,Blue-Green
+Arabica,Guatemala,acatenango,2015,7.75,7.83,7.58,8,7.92,7.75,10,10,10,7.83,0.1,Green
+Arabica,Costa Rica,tarrazu,2014,8.17,8,7.83,7.17,7.83,7.75,10,10,10,7.92,0.12,Green
+Arabica,Costa Rica,costa rica,2014,7.67,7.58,7.75,7.75,7.67,8.58,10,10,10,7.67,0.08,Green
+Arabica,Costa Rica,west valley,2014,8,7.58,7.83,7.75,7.75,7.75,10,10,10,8,0.11,Green
+Arabica,Taiwan,taichung xinshe 台中市新社區,2013/2014,8,7.92,7.75,7.75,7.75,7.75,10,10,10,7.75,0.11,Green
+Arabica,Colombia,santander,2013,7.75,7.83,7.75,7.83,7.75,7.83,10,10,10,7.92,0,Green
+Arabica,Kenya,nyeri,2012,7.75,7.92,7.83,8,7.58,7.75,10,10,10,7.83,0.11,Bluish-Green
+Arabica,Guatemala,oriente,2012,8,7.83,7.67,7.83,7.67,8,10,10,10,7.67,0.11,Green
+Arabica,Guatemala,acatenango,2012,7.67,7.83,7.67,8,7.67,7.83,10,10,10,8,0.12,Green
+Arabica,Uganda,mbale,2012,7.92,7.83,7.75,7.92,7.67,7.75,10,10,10,7.83,0.11,Blue-Green
+Arabica,Colombia,santander,2016,7.83,7.67,7.58,7.92,7.67,7.83,10,10,10,8.08,0,Blue-Green
+Arabica,Colombia,huila,2016,7.92,7.83,7.58,8,7.83,7.67,10,10,10,7.75,0,Green
+Arabica,Kenya,nyeri,2013,7.83,7.83,7.83,7.75,7.58,7.83,10,10,10,7.92,0.1,Bluish-Green
+Arabica,Guatemala,jalapa,2014,7.75,7.83,7.67,7.92,7.75,7.83,10,10,10,7.83,0.11,Green
+Arabica,Guatemala,oriente,2014,8,7.92,7.67,7.58,7.58,7.67,10,10,10,8.17,0.09,Green
+Arabica,Colombia,huila,2012,7.67,7.83,7.83,8,7.58,7.92,10,10,10,7.75,0,Green
+Arabica,Costa Rica,tres rios,2012,7.75,7.83,7.75,8,7.83,7.67,10,10,10,7.75,0.12,Bluish-Green
+Arabica,Colombia,huila,2012,7.42,7.67,7.75,7.75,8.08,7.83,10,10,10,8.08,0.11,Green
+Arabica,Brazil,vale da grama,2011,8,8,7.75,7.75,7.58,7.75,10,10,10,7.75,0.12,Green
+Arabica,Brazil,mountains of minas gerais,2011,8.5,8,7.5,7.75,7.5,7.83,10,10,10,7.5,0.11,Blue-Green
+Arabica,Costa Rica,valle central,2017 / 2018,7.92,7.67,7.92,7.75,7.67,7.58,10,10,10,8,0.1,Bluish-Green
+Arabica,Uganda,eastern uganda,2016,7.92,7.75,7.67,7.75,7.83,7.75,10,10,10,7.83,0.11,Green
+Arabica,China,yunnan,2015,7.75,7.92,7.67,7.83,7.75,7.67,10,10,10,7.92,0.1,Green
+Arabica,Costa Rica,tarrazu,2014,7.92,7.83,7.83,7.83,7.58,7.58,10,10,10,7.92,0.11,Green
+Arabica,Colombia,cauca,2015/2016,8.08,7.67,7.83,7.83,7.67,7.67,10,10,10,7.75,0.12,Green
+Arabica,China,yunnan,2013,7.67,8,7.75,7.83,7.75,7.58,10,10,10,7.92,0,Green
+Arabica,Guatemala,oriente,2013,8.17,7.83,7.67,7.83,7.67,7.83,10,10,10,7.5,0.11,Green
+Arabica,Kenya,nyeri,2012,7.92,7.83,7.67,8,7.67,7.75,10,10,10,7.67,0.11,Blue-Green
+Arabica,Mexico,hustusco,2012,8,7.92,7.42,8.08,7.5,7.67,10,10,10,7.92,0.12,Green
+Arabica,Guatemala,"el tumbador, san marcos",2012,7.67,8,7.67,8,7.5,7.83,10,10,10,7.83,0.11,Green
+Arabica,Costa Rica,tarrazu,2016,7.58,7.83,7.83,8,7.67,7.58,10,10,10,7.92,0.1,Blue-Green
+Arabica,Indonesia,sumatra brastagi,2017,7.67,7.67,7.83,7.58,7.83,7.83,10,10,10,8,0,Blue-Green
+Arabica,Colombia,pitalito,2015/2016,7.92,7.83,7.75,7.67,7.92,7.67,10,10,10,7.67,0,Green
+Arabica,Colombia,huila,2014,7.92,7.75,7.67,7.92,7.67,7.75,10,10,10,7.75,0,Green
+Arabica,Taiwan,"mountain ali, taiwan",2012,7.83,7.83,7.75,8,7.5,7.75,10,10,10,7.75,0.11,Blue-Green
+Arabica,United States (Hawaii),kona,2012,7.92,7.92,7.5,7.83,7.5,7.92,10,10,10,7.83,0.11,Blue-Green
+Arabica,Kenya,nyeri,2017 / 2018,7.33,7.58,7.83,7.75,7.75,7.92,10,10,10,8.17,0.11,Green
+Arabica,Honduras,comayagua,2016,7.92,8,7.75,7.67,7.67,7.75,10,10,10,7.58,0.1,Green
+Arabica,Colombia,huila,2016,7.58,7.75,7.5,7.83,7.67,8.5,10,10,10,7.5,0,Green
+Arabica,Honduras,central region,2016,7.58,7.92,7.58,7.75,7.92,7.75,10,10,10,7.83,0.11,Green
+Arabica,Colombia,huila,2015,7.75,7.67,8,7.67,8.08,7.83,10,10,10,7.33,0.11,Green
+Arabica,Colombia,huila,2013,7.75,7.58,7.33,7.83,7.58,8.08,10,10,10,8.17,0,Green
+Arabica,Mexico,tuxtla gutierrez,2012,8,7.75,7.75,7.83,7.5,7.67,10,10,10,7.83,0.12,Blue-Green
+Arabica,Taiwan,國姓鄉 guoshing township,2016,7.92,7.75,7.75,7.67,7.67,7.83,10,10,10,7.67,0.12,Blue-Green
+Arabica,Thailand,chiang rai thailand,2015,7.83,7.75,7.75,7.42,7.83,7.67,10,10,10,8,0.12,Green
+Arabica,Colombia,nariño,2016,7.83,7.58,7.75,7.58,7.67,8,10,10,10,7.83,0.11,Green
+Arabica,Guatemala,antigua,2016,7.75,7.75,7.58,7.92,7.75,7.75,10,10,10,7.75,0.11,Green
+Arabica,Guatemala,huehuetenango,2015,7.75,7.92,7.5,8.08,7.58,7.67,10,10,10,7.75,0.1,Green
+Arabica,China,yunnan,2015,7.83,7.83,7.58,7.75,7.75,7.75,10,10,10,7.75,0.1,Green
+Arabica,Colombia,huila,2015,7.67,7.67,7.75,7.75,7.67,7.92,10,10,10,7.83,0.11,Green
+Arabica,Colombia,huila,2015,7.83,7.67,7.75,7.58,7.92,7.75,10,10,10,7.75,0.12,Green
+Arabica,Colombia,cauca,2015/2016,7.83,7.75,7.83,7.58,7.67,7.75,10,10,10,7.83,0.12,Green
+Arabica,Colombia,huila,2015,7.42,7.67,7.83,7.75,7.92,7.83,10,10,10,7.83,0.12,Green
+Arabica,"Tanzania, United Republic Of",shizingo village,2014,7.83,7.67,7.75,7.83,7.67,7.67,10,10,10,7.83,0.12,Green
+Arabica,"Tanzania, United Republic Of",mbeya,2014,7.83,7.75,7.75,7.75,7.67,7.75,10,10,10,7.75,0.12,Green
+Arabica,Guatemala,oriente,2014,7.83,7.83,7.5,7.92,7.58,7.75,10,10,10,7.83,0.1,Green
+Arabica,Colombia,cauca,2013,7.58,7.5,7.75,7.83,7.92,7.83,10,10,10,7.83,0.11,Green
+Arabica,United States (Hawaii),kona,2012,7.33,7.92,7.92,7.92,7.92,8.08,10,10,9.33,7.83,0.11,Bluish-Green
+Arabica,Mexico,san pedro cotzilnam,2012,7.83,7.92,7.67,7.83,7.5,7.75,10,10,10,7.75,0.12,Green
+Arabica,Mexico,veracruz,2012,7.83,7.83,7.75,7.67,7.83,7.58,10,10,10,7.75,0.12,Green
+Arabica,Mexico,"la concordia, chiapas",2012,7.83,7.92,7.67,7.75,7.5,7.75,10,10,10,7.83,0.1,Bluish-Green
+Arabica,Uganda,kasese,2012,8.17,7.75,7.58,7.67,7.83,7.58,10,10,10,7.67,0.13,Green
+Arabica,Guatemala,san marcos,2017,7.75,7.83,7.58,7.83,7.67,7.75,10,10,10,7.75,0.13,Green
+Arabica,Colombia,huila,2016,7.83,7.75,7.58,7.67,7.75,7.83,10,10,10,7.75,0,Green
+Arabica,Costa Rica,tarrazu,2016,7.92,7.75,7.67,7.67,7.5,7.67,10,10,10,8,0.09,Bluish-Green
+Arabica,Guatemala,huehuetenango,2016,7.75,7.75,7.58,8,7.67,7.83,10,10,10,7.58,0.11,Green
+Arabica,Guatemala,solola,2016,7.75,7.92,7.58,7.92,7.67,7.67,10,10,10,7.67,0.1,Green
+Arabica,Guatemala,norte,2016,7.58,7.83,7.58,7.83,7.83,7.67,10,10,10,7.83,0.1,Green
+Arabica,Colombia,huila,2015,8,7.5,7.5,7.67,8,7.83,10,10,10,7.67,0,Bluish-Green
+Arabica,Nicaragua,jinotega,2015,7.67,7.83,7.83,7.5,7.67,7.83,10,10,10,7.83,0.12,Bluish-Green
+Arabica,Costa Rica,tarrazu,2014,7.67,7.75,7.67,7.75,7.5,8,10,10,10,7.83,0,Blue-Green
+Arabica,Ethiopia,snnprg; kafa; telo woreda; shada kebele,2014,7.5,7.92,7.58,7.83,7.75,7.83,10,10,10,7.75,0.1,Green
+Arabica,"Tanzania, United Republic Of",arusha,2014,7.92,7.75,7.75,7.75,7.75,7.58,10,10,10,7.67,0.13,Green
+Arabica,Colombia,huila,2014/2015,7.67,7.5,7.67,7.42,7.83,8.58,10,10,10,7.5,0.12,Green
+Arabica,Kenya,kenya,2013,7.58,7.75,7.75,7.75,7.75,7.83,10,10,10,7.75,0.08,Green
+Arabica,Brazil,"minas gerais, br",2012,7.58,7.83,7.75,7.67,7.67,8,10,10,10,7.67,0.11,Green
+Arabica,Guatemala,oriente,2013,7.92,7.75,7.67,7.67,7.83,7.92,10,10,10,7.42,0.11,Green
+Arabica,El Salvador,apaneca,2013,8.42,8.08,7.5,7.17,7.58,8.17,9.33,10,10,7.92,0.11,Bluish-Green
+Arabica,Colombia,huila,2012,7.75,7.75,7.75,7.75,7.83,7.75,10,10,10,7.58,0,Green
+Arabica,Guatemala,guatemala,2012,7.83,7.5,7.5,8,7.83,7.83,10,10,10,7.67,0.11,Bluish-Green
+Arabica,Uganda,mt. rwenzori,2012,7.83,7.75,7.5,7.83,7.83,7.75,10,10,10,7.67,0.11,Green
+Arabica,Indonesia,aceh tengah,2017,7.81,7.88,7.56,7.75,7.63,7.75,10,10,10,7.75,0.12,Bluish-Green
+Arabica,Colombia,huila,2017 / 2018,7.83,7.5,7.42,7.5,7.83,8.5,10,10,10,7.5,0,Green
+Arabica,Taiwan,"nanxi dist., tainan city 臺南市楠西區",2016,7.58,7.67,7.67,7.67,7.75,7.83,10,10,10,7.92,0.1,Bluish-Green
+Arabica,Guatemala,oriente,2016,8,7.75,7.5,7.58,7.92,7.67,10,10,10,7.67,0.1,Green
+Arabica,Guatemala,"aldea xeucalvitz, ixil region, quiche department",2014,7.58,7.75,7.67,8,7.75,7.67,10,10,10,7.67,0.1,Bluish-Green
+Arabica,United States (Hawaii),kona,2012,7.83,7.75,7.83,7.83,7.42,8.08,9.33,10,10,8,0.11,Green
+Arabica,Mexico,santo domingo cacalotepec,2012,7.67,7.75,7.67,7.75,7.67,7.75,10,10,10,7.83,0.11,Green
+Arabica,Ethiopia,sidamo,2017,7.83,7.75,7.67,7.75,7.33,7.75,10,10,10,7.92,0.11,Green
+Arabica,Honduras,comayagua,2017,7.42,7.83,7.75,7.92,7.75,7.58,10,10,10,7.75,0.1,Green
+Arabica,Guatemala,huehuetenango,2015,7.67,7.83,7.58,7.92,7.75,7.67,10,10,10,7.58,0.12,Green
+Arabica,Colombia,huila,2014/2015,7.67,7.67,7.83,7.58,7.58,7.83,10,10,10,7.83,0.11,Green
+Arabica,Guatemala,oriente,2014,7.92,7.67,7.42,7.92,7.75,7.83,10,10,10,7.5,0.1,Green
+Arabica,Guatemala,oriente,2014,7.75,7.83,7.5,7.83,7.58,7.67,10,10,10,7.83,0.1,Green
+Arabica,Colombia,huila,2014,7.67,7.75,7.67,7.67,7.67,7.75,10,10,10,7.83,0.12,Green
+Arabica,Colombia,santander,2014,7.58,7.42,7.75,7.92,7.75,7.92,10,10,10,7.67,0.12,Green
+Arabica,Colombia,huila,2014,7.67,7.67,7.5,7.5,7.67,7.67,10,10,10,8.33,0.12,Green
+Arabica,Ethiopia,sidamo,2013,7.75,7.75,7.5,7.58,7.67,7.92,10,10,10,7.83,0.09,Green
+Arabica,Brazil,south of minas,2013/2014,7.58,7.83,7.67,7.25,8,7.75,10,10,10,7.92,0.1,Green
+Arabica,Colombia,cauca,2013,7.67,7.83,7.67,7.75,7.67,7.75,10,10,10,7.67,0.11,Green
+Arabica,Kenya,blend,2012,7.67,7.83,7.5,7.75,7.92,7.67,10,10,10,7.67,0,Green
+Arabica,Thailand,thailand,2012,7.92,8.17,8.17,8.42,8.08,8.17,8.67,8.67,9.33,8.42,0.12,Green
+Arabica,Kenya,central kenya,2012,7.67,7.75,7.67,7.75,7.83,7.67,10,10,10,7.67,0,Bluish-Green
+Arabica,Uganda,kasese,2012,7.92,7.75,7.58,7.67,7.67,7.83,10,10,10,7.58,0.1,Green
+Arabica,Brazil,south of minas,2017 / 2018,7.5,7.75,7.58,7.5,7.58,7.5,10,10,10,8.5,0,Green
+Arabica,Mexico,veracruz,2017,7.83,7.83,7.58,7.92,7.42,7.5,10,10,10,7.83,0.11,Green
+Arabica,Thailand,chiangrai,2015,7.67,7.75,7.5,7.67,7.67,7.83,10,10,10,7.83,0.1,Bluish-Green
+Arabica,Brazil,south of minas,2016,7.58,7.67,7.67,7.75,7.58,7.83,10,10,10,7.83,0.11,Green
+Arabica,Taiwan,"leye, alishan township, chiayi county 嘉義阿里山樂野村",2015,7.83,7.75,7.83,7.75,7.83,7.75,9.33,10,10,7.83,0.11,Green
+Arabica,Colombia,huila,2016,7.75,7.67,7.5,7.75,7.83,7.75,10,10,10,7.67,0.11,Green
+Arabica,Taiwan,台灣,2014,7.75,7.75,7.58,7.75,7.75,7.67,10,10,10,7.67,0,Blue-Green
+Arabica,Colombia,huila,2014,7.83,7.75,7.58,7.58,7.75,7.75,10,10,10,7.67,0,None
+Arabica,Colombia,huila,2014,7.75,7.58,7.67,7.83,7.83,7.67,10,10,10,7.58,0,Green
+Arabica,Taiwan,台中和平區,2014,8,7.92,7.92,7.92,7.67,7.33,10,10,10,7.17,0.06,Green
+Arabica,Colombia,santander,2014,7.67,7.83,7.67,7.75,7.67,7.83,10,10,10,7.5,0.12,Green
+Arabica,Mexico,xicotepec de juarez,2012,7.67,7.75,7.58,7.67,7.75,7.83,10,10,10,7.67,0.12,Blue-Green
+Arabica,Mexico,la yerbabuena,2012,7.75,7.92,7.83,7.92,7.75,7.67,9.33,10,10,7.75,0,Green
+Arabica,Colombia,nariño,2017,7.92,7.58,7.5,7.83,7.58,7.67,10,10,10,7.75,0,Green
+Arabica,Colombia,huila,2016,7.83,7.67,7.5,7.75,7.75,7.75,10,10,10,7.58,0,Green
+Arabica,Costa Rica,tarrazu,2015,7.67,7.67,7.75,7.67,7.5,7.75,10,10,10,7.83,0,Blue-Green
+Arabica,Guatemala,antigua,2016,7.75,7.75,7.5,7.75,7.83,7.58,10,10,10,7.67,0.11,Green
+Arabica,Brazil,south of minas,2015/2016,7.25,7.58,7.42,8,7.75,7.83,10,10,10,8,0,Green
+Arabica,Taiwan,"dongshan dist., tainan city 臺南市東山區",2014,7.67,7.75,7.67,7.75,7.42,7.75,10,10,10,7.83,0,Green
+Arabica,Ethiopia,oromia,2014,7.75,7.75,7.67,7.67,7.58,7.67,10,10,10,7.75,0.12,Green
+Arabica,Brazil,south of minas,2014/2015,7.67,7.67,7.58,7.5,7.83,8.17,10,10,9.33,8.08,0,Green
+Arabica,Costa Rica,central valley,2013,7.83,7.42,7.5,7.83,7.75,7.83,10,10,10,7.67,0.1,Green
+Arabica,Guatemala,oriente,2014,7.58,7.83,7.33,8,7.58,7.75,10,10,10,7.75,0.1,Green
+Arabica,Brazil,south of minas,2013/2014,7.92,7.5,7.33,7.67,8.17,7.5,10,10,10,7.75,0.1,Green
+Arabica,Ecuador,"province of manabi, ecuador",2013,7.5,7.67,7.58,7.75,7.83,7.83,10,10,10,7.67,0.09,Bluish-Green
+Arabica,Colombia,huila,2013,7.67,7.58,7.58,7.83,7.58,7.67,10,10,10,7.92,0.11,Green
+Arabica,Guatemala,oriente,2013,7.5,7.83,7.5,7.83,7.83,7.67,10,10,10,7.67,0.11,Green
+Arabica,Mexico,petatlan,2012,7.67,8,7.67,7.42,7.67,7.5,10,10,10,7.92,0.1,Green
+Arabica,Brazil,carmo de minas,2011/2012,7.83,7.83,7.58,7.67,7.5,7.58,10,10,10,7.83,0.12,Green
+Arabica,Brazil,south of minas,2017 / 2018,7.67,7.67,7.58,7.75,7.67,7.67,10,10,10,7.75,0.11,Green
+Arabica,Colombia,huila,2017,7.83,7.83,7.58,7.58,7.58,7.58,10,10,10,7.75,0.11,Green
+Arabica,Taiwan,"台南市東山區 (dongshan dist., tainan city)",2016,7.67,7.67,7.58,7.58,7.67,7.83,10,10,10,7.75,0,Green
+Arabica,Colombia,huila,2016,7.92,7.75,7.5,7.67,7.75,7.5,10,10,10,7.67,0,Green
+Arabica,China,yunnan,2015,7.83,7.75,7.67,7.5,7.58,7.67,10,10,10,7.75,0.1,Green
+Arabica,Colombia,huila,2015/2016,7.75,7.67,7.5,7.67,7.58,7.83,10,10,10,7.75,0,Green
+Arabica,Uganda,west nile,2013,8,7.92,7.58,7.75,7.33,7.5,10,10,10,7.67,0.12,Green
+Arabica,United States (Puerto Rico),yauco region,2013,7.83,7.83,7.83,7.67,8,8.17,9.33,9.33,10,7.75,0.12,Green
+Arabica,Colombia,huila,2014,7.67,7.67,7.67,7.92,7.5,7.67,10,10,10,7.67,0,Green
+Arabica,Colombia,huila,2014,7.67,7.42,7.42,7.42,8,8.33,10,10,10,7.5,0,Green
+Arabica,Colombia,huila,2013,7.58,7.67,7.75,7.67,7.67,7.67,10,10,10,7.75,0,Blue-Green
+Arabica,Colombia,huila,2013,7.75,7.67,7.75,7.58,7.42,8,10,10,10,7.58,0.11,Green
+Arabica,United States (Hawaii),kona,2013,7.25,7.42,7.67,7.58,7.83,8.25,10,10,10,7.75,0,Bluish-Green
+Arabica,Mexico,"huazalingo, hidalgo",2012,7.83,7.58,7.58,7.5,7.75,7.67,10,10,10,7.83,0.13,None
+Arabica,Guatemala,quetzaltenango,2012,7.67,7.58,7.58,7.67,7.75,7.75,10,10,10,7.75,0.11,Bluish-Green
+Arabica,Brazil,south of minas,2017 / 2018,7.67,7.83,7.5,7.67,7.67,7.5,10,10,10,7.83,0.11,Green
+Arabica,Kenya,meru county,2017,8.08,7.67,7.67,7.58,7.25,7.67,10,10,10,7.75,0.11,Bluish-Green
+Arabica,Honduras,comayagua,2016,7.5,7.5,7.67,7.67,8,8,10,10,10,7.33,0.1,Green
+Arabica,Nicaragua,jinotega,2016,7.67,7.75,7.67,7.67,7.83,7.58,10,10,10,7.5,0.1,Green
+Arabica,Brazil,south of minas,2016,7.58,7.75,7.58,7.75,7.58,7.58,10,10,10,7.83,0.11,Green
+Arabica,Taiwan,"leye, alishan township, chiayi county",2015,7.5,7.67,7.33,7.92,7.83,7.67,10,10,10,7.75,0.1,Bluish-Green
+Arabica,Thailand,thailand,2014,7.5,7.75,7.58,7.83,7.67,7.58,10,10,10,7.75,0.12,Bluish-Green
+Arabica,Guatemala,huehuetenango,2014,8,7.5,7.33,8,8,8,9.33,10,10,7.5,0.1,Green
+Arabica,Colombia,huila supremo,2013,7.83,7.75,7.67,7.58,7.58,7.67,10,10,10,7.58,0,Green
+Arabica,Colombia,huila,2013,7.67,7.67,7.67,7.67,7.33,7.75,10,10,10,7.92,0,Green
+Arabica,Guatemala,oriente,2013,7.67,7.67,7.42,7.67,8,7.75,10,10,10,7.5,0.12,Green
+Arabica,Guatemala,oriente,2013,7.83,7.67,7.33,7.67,7.67,7.83,10,10,10,7.67,0.11,Green
+Arabica,Colombia,huila,2012,7.75,7.75,7.58,7.83,7.17,7.75,10,10,10,7.83,0.11,Green
+Arabica,Guatemala,oriente,2012,8.17,8.17,7.83,7.67,8.08,7.75,9.33,9.33,9.33,8,0.11,Green
+Arabica,Guatemala,oriente,2012,7.67,8.17,7.5,7.42,7.58,7.83,10,10,10,7.5,0.11,Green
+Arabica,Mexico,xicotepec de juarez,2012,7.67,7.5,7.5,7.33,7.83,8.25,10,10,10,7.58,0.12,Green
+Arabica,Indonesia,east java,2012,8.17,7.67,7.58,7.58,7.42,7.67,10,10,10,7.58,0.12,Green
+Arabica,Guatemala,"sacatepequez, guatemala",2012,7.67,7.5,7.33,8,7.67,7.67,10,10,10,7.83,0.1,Green
+Arabica,Brazil,south of minas,2017 / 2018,7.58,7.67,7.58,7.58,7.67,7.58,10,10,10,7.92,0.11,Green
+Arabica,Guatemala,huehuetenango,2016,7.75,7.75,7.5,7.83,7.58,7.58,10,10,10,7.58,0.11,Green
+Arabica,Colombia,huila,2016,7.75,7.75,7.58,7.58,7.67,7.58,10,10,10,7.67,0.11,Green
+Arabica,China,yunnan,2015,7.67,7.58,7.58,7.58,7.67,7.75,10,10,10,7.75,0.1,Green
+Arabica,Colombia,huila,2015,7.67,7.75,7.58,7.67,7.75,7.58,10,10,10,7.58,0.12,Green
+Arabica,Mexico,"chiapas, jaltenango",2014,7.75,7.75,7.58,7.58,7.5,7.67,10,10,10,7.75,0.12,Green
+Arabica,Uganda,eastern,2013,7.67,7.67,7.42,7.75,7.75,7.67,10,10,10,7.67,0.12,Green
+Arabica,Colombia,cundinamarca,2014,7.67,7.58,7.67,7.67,7.67,7.67,10,10,10,7.67,0,Green
+Arabica,Colombia,santander,2014,7.67,7.58,7.67,7.58,7.67,7.75,10,10,10,7.67,0.12,Green
+Arabica,Taiwan,taichung xinshe 台中市新社區,2013/2014,7.75,7.75,7.75,7.75,7.5,7.58,10,10,10,7.5,0.11,Green
+Arabica,Colombia,huila,2012,7.67,7.67,7.58,7.67,7.75,7.58,10,10,10,7.67,0.11,Green
+Arabica,Colombia,cundinamarca,2012,7.67,7.58,7.58,7.58,7.67,7.75,10,10,10,7.75,0.11,Green
+Arabica,Brazil,south of minas,2012,7.83,7.75,7.5,7.75,7.5,7.58,10,10,10,7.67,0.12,Blue-Green
+Arabica,Colombia,cundinamarca,2016,7.75,7.58,7.58,7.75,7.75,7.5,10,10,10,7.58,0,Bluish-Green
+Arabica,Costa Rica,tarrazu,2015,7.92,7.42,7.5,7.67,7.5,7.67,10,10,10,7.83,0,Blue-Green
+Arabica,Colombia,pitalito,2016,7.75,7.58,7.58,7.5,7.75,7.75,10,10,10,7.58,0,Green
+Arabica,Guatemala,oriente,2016,7.67,7.75,7.5,7.83,7.58,7.58,10,10,10,7.58,0.1,Bluish-Green
+Arabica,Colombia,huila,2015,7.58,7.58,7.58,7.58,7.75,7.67,10,10,10,7.75,0.12,Green
+Arabica,"Tanzania, United Republic Of",nkure- meru,2015,7.75,7.67,7.58,7.67,7.67,7.58,10,10,10,7.58,0.13,Green
+Arabica,Indonesia,bener meriah,2015,7.25,7.67,7.58,7.92,7.83,7.58,10,10,10,7.67,0.13,Bluish-Green
+Arabica,Colombia,huila,2014,8,7.58,7.25,7.58,7.92,7.58,10,10,10,7.58,0.11,Green
+Arabica,Guatemala,atitlan,2013,7.58,7.75,7.5,7.83,7.42,7.67,10,10,10,7.75,0.1,Green
+Arabica,Honduras,comayagua,2014/2015,7.67,7.5,7.67,7.5,7.67,7.67,10,10,10,7.83,0.1,Green
+Arabica,Colombia,huila,2013,7.58,7.75,7.42,7.67,7.75,7.67,10,10,10,7.67,0,Green
+Arabica,Colombia,huila,2013,7.58,7.67,7.58,7.75,7.58,7.75,10,10,10,7.58,0.11,Green
+Arabica,Mexico,xalapa,2012,7.83,7.58,7.25,7.5,7.5,7.42,10,10,10,8.42,0.13,Green
+Arabica,Mexico,chilón,2012,7.67,7.75,7.67,7.75,7.58,7.5,10,10,10,7.58,0.11,Green
+Arabica,Mexico,totutla,2012,7.75,7.67,7.67,7.75,7.33,7.5,10,10,10,7.83,0.12,Green
+Arabica,Guatemala,atitlan,2012,7.83,7.5,7.5,8,7.67,7.5,10,10,10,7.5,0.1,Green
+Arabica,Colombia,huila,2012,7.67,7.58,7.58,7.67,7.67,7.67,10,10,10,7.67,0.11,Green
+Arabica,Guatemala,oriente,2012,7.5,7.5,7.75,7.5,8,7.67,10,10,10,7.58,0,Green
+Arabica,Colombia,huila,2017 / 2018,7.5,7.58,7.58,7.5,7.75,7.83,10,10,10,7.67,0,Green
+Arabica,Guatemala,san marcos,2017,7.67,7.75,7.5,7.58,7.58,7.67,10,10,10,7.67,0.1,Green
+Arabica,Colombia,huila,2016,7.67,7.67,7.5,7.67,7.67,7.58,10,10,10,7.67,0.11,Green
+Arabica,Costa Rica,tarrazu,2016,7.58,7.5,7.42,7.92,7.5,7.67,10,10,10,7.83,0.09,Blue-Green
+Arabica,Uganda,eastern,2015,7.58,7.75,7.33,7.75,7.67,7.58,10,10,10,7.75,0.11,Green
+Arabica,Thailand,thailand,2015,7.5,7.58,7.75,7.5,7.75,7.67,10,10,10,7.67,0.13,Bluish-Green
+Arabica,Colombia,huila,2015,7.58,7.67,7.58,7.67,7.58,7.67,10,10,10,7.67,0.12,Green
+Arabica,Brazil,vale da grama,2014,7.33,7.83,7.75,7.5,7.42,7.83,10,10,10,7.75,0.12,Green
+Arabica,"Tanzania, United Republic Of",karatu northern,2014,7.75,7.67,7.58,7.67,7.58,7.58,10,10,10,7.58,0.13,Green
+Arabica,Colombia,huila,2014/2015,7.58,7.58,7.25,7.75,7.75,8.58,9.33,10,10,7.58,0.12,Green
+Arabica,Guatemala,oriente,2013,7.75,7.83,7.33,7.83,7.5,7.67,10,10,10,7.5,0.1,Green
+Arabica,Guatemala,antigua,2014,7.67,7.75,7.5,7.83,7.58,7.5,10,10,10,7.58,0.1,Green
+Arabica,Guatemala,oriente,2013,7.67,7.5,7.75,7.42,7.75,7.75,10,10,10,7.58,0.11,Green
+Arabica,United States (Hawaii),kona,2012,7.42,7.75,7.67,7.58,7.67,7.67,10,10,10,7.67,0,Green
+Arabica,Colombia,cundinamarca,2012,7.5,7.75,7.58,7.5,7.67,7.75,10,10,10,7.67,0.11,Green
+Arabica,Colombia,guayata,2016,7.67,7.58,7.58,7.42,7.67,7.75,10,10,10,7.67,0,Blue-Green
+Arabica,Colombia,huila,2016,7.83,7.58,7.58,7.58,7.5,7.58,10,10,10,7.67,0,Green
+Arabica,Brazil,south of minas,2015/2016,7.5,7.83,7.33,7.58,7.58,7.92,10,10,10,7.58,0.1,Green
+Arabica,Mexico,chiapas,2014,7.75,7.75,7.5,7.67,7.5,7.58,10,10,10,7.58,0.12,Green
+Arabica,Colombia,santander,2015,7.67,7.75,7.42,7.83,7.83,7.42,10,10,10,7.42,0.11,Green
+Arabica,"Tanzania, United Republic Of",arusha,2014,7.75,7.58,7.67,7.58,7.58,7.58,10,10,10,7.58,0.12,Green
+Arabica,Mexico,veracruz,2013,7.67,7.67,7.58,7.67,7.5,7.58,10,10,10,7.67,0.12,Green
+Arabica,Costa Rica,san ramon,2014,7.67,7.67,7.42,7.67,7.67,7.67,10,10,10,7.58,0.12,Green
+Arabica,United States (Hawaii),kona,2014,7.83,7.58,7.83,7.67,7.92,8,9.33,10,9.33,7.83,0.11,Bluish-Green
+Arabica,Costa Rica,central valley,2013,7.5,7.67,7.67,7.5,7.83,7.17,10,10,10,8,0.11,Green
+Arabica,Haiti,"thiotte, haiti",2012,7.58,7.5,7.67,7.5,7.83,7.42,10,10,10,7.83,0.11,Green
+Arabica,Colombia,pitalito,2013,7.67,7.67,7.5,7.67,7.92,7.42,10,10,10,7.5,0.11,Green
+Arabica,Guatemala,oriente,2013,7.83,7.67,7.17,7.67,7.67,7.67,10,10,10,7.67,0.11,Green
+Arabica,United States (Hawaii),kona,2012,7.92,7.5,7.58,7.83,7.67,7.67,9.33,10,10,7.83,0.1,Bluish-Green
+Arabica,Colombia,huila,2012,7.5,7.67,7.67,7.58,7.67,7.58,10,10,10,7.67,0,Green
+Arabica,Mexico,sierra madre occidental,2017,7.67,7.83,7.42,7.83,7.33,7.5,10,10,10,7.67,0.11,Blue-Green
+Arabica,Costa Rica,tarrazu,2016,7.5,7.5,7.83,7.5,7.67,7.67,10,10,10,7.58,0.11,Green
+Arabica,Guatemala,nuevo oriente,2016,7.5,7.58,7.42,7.83,7.67,7.58,10,10,10,7.67,0.11,Green
+Arabica,Uganda,"sipi, mt elgon",2015,7.5,7.67,7.67,7.42,7.67,7.67,10,10,10,7.67,0.12,Green
+Arabica,Brazil,campos altos - cerrado,2016,7.58,7.67,7.42,7.5,7.67,7.42,10,10,10,8,0.12,Green
+Arabica,Colombia,huila,2015/2016,7.58,7.67,7.67,7.17,7.75,7.83,10,10,10,7.58,0,Green
+Arabica,Mexico,cuarenteño,2015,7.83,7.75,7.5,7.58,7.58,7.58,10,10,10,7.42,0.12,Bluish-Green
+Arabica,Taiwan,natou county,2015,7.67,7.5,7.5,7.5,7.67,7.83,10,10,10,7.58,0.1,Blue-Green
+Arabica,Taiwan,南投國姓,2014,7.92,7.83,7.75,7.58,7.5,7.33,10,10,10,7.33,0.1,Green
+Arabica,Colombia,eje cafetero,2014,7.58,7.58,7.5,7.58,7.58,7.75,10,10,10,7.67,0,Green
+Arabica,Guatemala,antigua,2014,7.5,7.67,7.58,7.67,7.67,7.5,10,10,10,7.67,0.1,Green
+Arabica,Colombia,huila,2013,7.83,7.5,7.67,7.33,7.67,7.67,10,10,10,7.58,0.11,Green
+Arabica,Mexico,chiapas,2013,7.58,7.75,7.5,7.5,7.58,7.58,10,10,10,7.75,0.12,Green
+Arabica,United States (Hawaii),kona,2012,7.58,7.75,7.83,8,8.08,7.67,9.33,10,9.33,7.67,0.11,Bluish-Green
+Arabica,Mexico,veracruz,2012,7.75,7.58,7.58,7.58,7.5,7.58,10,10,10,7.67,0.13,Green
+Arabica,Mexico,fortín de las flores,2012,7.75,7.75,7.42,7.92,7.33,7.5,10,10,10,7.58,0.12,Blue-Green
+Arabica,Guatemala,oriente,2012,7.83,7.58,7.08,7.83,7.42,8.08,10,10,10,7.42,0.11,Green
+Arabica,Brazil,grama valley,2012,7.75,7.67,7.5,7.58,7.58,7.58,10,10,10,7.58,0.11,Blue-Green
+Arabica,Colombia,huila,2012,7.67,7.58,7.58,7.42,7.83,7.58,10,10,10,7.58,0.12,Green
+Arabica,Colombia,la plata,2012,7.67,7.67,7.5,7.5,7.58,7.67,10,10,10,7.67,0.11,Green
+Arabica,Brazil,south of minas,2017 / 2018,7.67,7.42,7.5,7.58,7.67,7.58,10,10,10,7.75,0.11,Green
+Arabica,Guatemala,oriente,2017,7.58,7.58,7.33,7.67,7.75,7.58,10,10,10,7.67,0.1,Green
+Arabica,"Tanzania, United Republic Of",moshi,2016,7.67,7.58,7.42,7.67,7.67,7.58,10,10,10,7.58,0.12,Green
+Arabica,Vietnam,dala,2017,7.58,7.42,7.08,7.33,7.58,8.58,10,10,10,7.58,0.07,None
+Arabica,Guatemala,antigua,2016,7.67,7.75,7.42,7.75,7.58,7.5,10,10,10,7.5,0.11,Green
+Arabica,Honduras,marcala,2016,7.67,7.67,7.5,7.67,7.5,7.67,10,10,10,7.5,0.11,Blue-Green
+Arabica,China,yunnan,2015,7.5,7.67,7.33,7.67,7.67,7.67,10,10,10,7.67,0.11,Green
+Arabica,China,dehong prefecture,2015,7.67,7.67,7.5,7.67,7.42,7.58,10,10,10,7.67,0.1,Green
+Arabica,El Salvador,apaneca,2016,7.5,7.5,7.33,7.67,8,7.67,10,10,10,7.5,0,Green
+Arabica,Guatemala,antigua,2015,7.5,7.75,7.5,7.83,7.58,7.5,10,10,10,7.5,0.11,Green
+Arabica,Guatemala,oriente,2015,7.92,7.67,7.42,7.75,7.5,7.5,10,10,10,7.42,0.12,Green
+Arabica,Kenya,kenya,2014,7.83,7.75,7.67,7.75,7.83,8.5,9.33,9.33,9.33,7.83,0.1,Bluish-Green
+Arabica,Thailand,thailand,2014,7.67,7.58,7.58,7.75,7.42,7.67,10,10,10,7.5,0.12,Bluish-Green
+Arabica,"Tanzania, United Republic Of",mbinga,2014,7.58,7.67,7.67,7.58,7.42,7.58,10,10,10,7.67,0.13,Bluish-Green
+Arabica,Uganda,eastern,2014,8,7.67,7.5,7.42,7.33,7.58,10,10,10,7.67,0.1,Bluish-Green
+Arabica,Honduras,san marcos,2013,7.5,7.5,7.5,7.67,7.67,7.67,10,10,10,7.67,0.1,Green
+Arabica,Honduras,comayagua,2014/2015,7.67,7.67,7.5,7.67,7.5,7.67,10,10,10,7.5,0.11,Green
+Arabica,Guatemala,san marcos,2014,7.33,7.83,7.17,8.17,7.33,7.67,10,10,10,7.67,0.09,Green
+Arabica,United States (Hawaii),kona,2013,7.5,7.5,7.58,7.42,7.92,7.67,10,10,10,7.58,0.11,Bluish-Green
+Arabica,"Tanzania, United Republic Of",kilimanjaro,2014,7.58,7.5,7.58,7.75,7.58,7.58,10,10,10,7.58,0.12,Green
+Arabica,Guatemala,oriente,2013,7.67,7.83,7.33,7.67,7.5,7.67,10,10,10,7.5,0.11,Green
+Arabica,Mexico,chiapas,2013,7.75,7.58,7.58,7.58,7.5,7.42,10,10,10,7.75,0.11,Green
+Arabica,Mexico,"tlanchinol, hidalgo",2012,7.75,7.67,7.58,7.5,7.42,7.58,10,10,10,7.67,0.12,None
+Arabica,Mexico,san bartolo tutotepec,2012,7.58,7.75,7.42,7.67,7.5,7.58,10,10,10,7.67,0.14,None
+Arabica,Colombia,huila,2012,7.67,7.5,7.5,7.5,7.58,8.17,10,10,10,7.25,0.11,Green
+Arabica,Mexico,san isidro,2012,7.75,7.5,7.42,7.75,7.58,7.58,10,10,10,7.58,0.13,Green
+Arabica,Colombia,huila,2012,7.58,7.67,7.5,7.58,7.67,7.67,10,10,10,7.5,0.11,Blue-Green
+Arabica,Brazil,south of minas,2012,7.75,7.67,7.58,7.5,7.58,7.58,10,10,10,7.5,0.12,Green
+Arabica,Brazil,mogiana,2012,7.92,7.58,7.5,7.58,7.42,7.5,10,10,10,7.67,0.11,Green
+Arabica,Guatemala,oriente,2012,7.75,7.5,7.67,7.5,7.92,8,10,10,9.33,7.5,0,Green
+Arabica,Brazil,south of minas,2011,7.75,7.5,7.58,7.5,7.75,7.5,10,10,10,7.58,0.12,Blue-Green
+Arabica,Colombia,cundinamarca,2016,7.58,7.67,7.33,7.67,7.75,7.58,10,10,10,7.5,0,Green
+Arabica,Colombia,huila,2016,7.75,7.5,7.5,7.42,8,7.75,10,10,10,7.17,0,Green
+Arabica,Brazil,south of minas,2015,7.58,7.58,7.58,7.5,7.67,7.58,10,10,10,7.58,0.11,Bluish-Green
+Arabica,Brazil,south of minas,2015/2016,7.33,7.67,7.67,7.33,7.75,7.42,10,10,10,7.92,0,Green
+Arabica,Taiwan,"dongshan dist., tainan city 臺南市東山區",2015,7.83,7.92,7.5,7.83,7.67,7.25,9.33,10,10,7.75,0,Green
+Arabica,Brazil,chapadão de ferro (cerrado mineiro),2015,7.42,7.67,7.58,7.5,7.75,7.67,10,10,10,7.5,0.11,Green
+Arabica,Brazil,south of minas,2014/2015,7.58,7.83,7.67,7.42,7.42,7.5,10,10,10,7.67,0,Green
+Arabica,Costa Rica,central valley,2014,7.83,7.33,7.5,7.67,7.58,7.67,10,10,10,7.5,0.1,Green
+Arabica,United States (Hawaii),kona,2013,7.33,7.75,7.58,7.33,7.83,7.67,10,10,10,7.58,0.12,Bluish-Green
+Arabica,United States (Hawaii),kona,2012,7.83,7.83,7.33,7.17,7.75,7.67,10,10,10,7.5,0.1,Bluish-Green
+Arabica,United States (Hawaii),kona,2012,7.33,7.58,7.58,7.92,7.67,7.58,10,10,10,7.42,0.12,Green
+Arabica,Brazil,south of minas,2017 / 2018,7.58,7.5,7.5,7.75,7.67,7.5,10,10,10,7.5,0,Green
+Arabica,Brazil,south of minas,2016,7.5,7.58,7.58,7.67,7.58,7.5,10,10,10,7.58,0.11,Green
+Arabica,Brazil,south of minas,2016,7.5,7.67,7.58,7.67,7.58,7.42,10,10,10,7.58,0.11,Bluish-Green
+Arabica,Uganda,"kasese, mt. rwenzori",2015,7.67,7.58,7.42,7.42,7.83,7.5,10,10,10,7.58,0.12,Green
+Arabica,Uganda,"kasese, mt. rwenzori",2015,7.67,7.67,7.5,7.58,7.42,7.5,10,10,10,7.67,0.12,Green
+Arabica,Colombia,huila,2016,7.67,7.67,7.33,7.67,7.5,7.58,10,10,10,7.58,0.11,Green
+Arabica,Vietnam,vietnam cau dat,2014,7.75,7.67,7.58,7.58,7.42,7.67,9.33,10,10,8,0,Green
+Arabica,Guatemala,nuevo oriente,2015,7.67,7.75,7.33,7.92,7.42,7.5,10,10,10,7.42,0.11,Green
+Arabica,Guatemala,"el tumbador, san marcos",2015,7.75,7.67,7.33,7.75,7.5,7.42,10,10,10,7.58,0.11,Green
+Arabica,Guatemala,antigua,2015,7.83,7.67,7.25,7.67,7.75,7.5,10,10,10,7.33,0.11,Green
+Arabica,Brazil,high mogiana,2014,7.67,7.67,7.67,7.5,7.42,7.5,10,10,10,7.58,0,Green
+Arabica,Taiwan,嘉義阿里山,2014,7.92,7.92,7.83,7.58,7.33,7.25,10,10,10,7.17,0.08,Green
+Arabica,Uganda,kapchorwa,2013,7.83,7.58,7.5,7.5,7.58,7.5,10,10,10,7.5,0.12,Green
+Arabica,United States (Puerto Rico),yauco region,2013,7.67,7.5,7.67,7.83,7.75,7.83,10,10,9.33,7.42,0,Bluish-Green
+Arabica,Guatemala,antigua,2014,7.67,7.67,7.42,7.83,7.5,7.5,10,10,10,7.42,0.1,Green
+Arabica,Costa Rica,central valley,2013,7.67,7.58,7.5,7.58,7.5,7.5,10,10,10,7.67,0.11,Green
+Arabica,Brazil,sul de minas,2013/2014,7.75,7.58,7.42,7.67,7.42,7.67,10,10,10,7.5,0.12,Bluish-Green
+Arabica,Colombia,huila,2013,7.75,7.42,7.33,7.5,7.58,7.17,10,10,10,8.25,0.11,Green
+Arabica,Colombia,huila,2013,7.83,7.5,7.58,7.33,7.5,7.67,10,10,10,7.58,0,Green
+Arabica,Colombia,pitalito,2013,7.33,7.67,7.75,7.42,7.75,7.58,10,10,10,7.5,0.11,Green
+Arabica,Colombia,pitalito,2013,7.58,7.75,7.42,7.67,7.58,7.42,10,10,10,7.58,0,Green
+Arabica,Colombia,huila,2012,7.5,7.5,7.42,7.58,7.75,7.58,10,10,10,7.67,0.11,Green
+Arabica,Mexico,coatepec,2012,7.67,7.58,7.42,7.5,7.67,7.58,10,10,10,7.58,0.11,Green
+Arabica,Mexico,atoyac de alvarez,2012,7.67,7.83,7.5,7.58,7.58,7.67,9.33,10,10,7.83,0.11,Green
+Arabica,Mexico,coatepec,2012,7.5,7.67,7.5,7.5,7.58,7.58,10,10,10,7.67,0.11,Green
+Arabica,Colombia,huila,2012,7.75,7.58,7.5,7.67,7.83,7.75,9.33,10,10,7.58,0,Green
+Arabica,Colombia,huila,2012,7.67,7.58,7.58,7.58,7.67,7.42,10,10,10,7.5,0.11,Green
+Arabica,Guatemala,"la reforma, san marcos",2012,7.5,7.67,7.5,7.67,7.5,7.83,10,10,10,7.33,0.1,Green
+Arabica,Colombia,la plata,2011,7.67,7.67,7.58,7.5,7.67,7.42,10,10,10,7.5,0.12,Bluish-Green
+Arabica,Brazil,south of minas,2017 / 2018,7.67,7.58,7.5,7.58,7.58,7.5,10,10,10,7.5,0,Green
+Arabica,El Salvador,apaneca,2017,7.5,7.5,7.75,7.58,7.92,7.83,10,10,9.33,7.5,0,Green
+Arabica,Colombia,guayata,2017,7.58,7.67,7.5,7.33,7.67,7.58,10,10,10,7.58,0.11,Green
+Arabica,Taiwan,"dongshan dist., tainan city 臺南市東山區",2016,7.17,7.83,7.25,7.67,7.67,7.58,10,10,10,7.75,0.09,Green
+Arabica,Ethiopia,"blida,kercha,guji,oromia",2016,7.58,7.58,7.5,7.5,7.58,7.58,10,10,10,7.58,0,Bluish-Green
+Arabica,Taiwan,台東太麻里,2014,7.5,7.58,7.67,7.33,7.5,7.75,10,10,10,7.58,0,Green
+Arabica,Philippines,"bukidnon, mindanao, philppines",2015,7.58,7.58,7.67,7.58,7.5,7.5,10,10,10,7.5,0.11,Blue-Green
+Arabica,Philippines,asia pacific,2014,8.08,7.5,7.67,7.42,7.33,7.5,10,10,10,7.42,0,Bluish-Green
+Arabica,Mexico,cuarenteño,2015,7.83,7.67,7.25,7.58,7.5,7.5,10,10,10,7.58,0.13,Blue-Green
+Arabica,Mexico,chiapas,2015,7.75,7.67,7.42,7.42,7.75,7.5,10,10,10,7.42,0.12,Bluish-Green
+Arabica,Brazil,cerrado,2014/2015,7.08,7.5,7.5,7.83,7.75,7.67,10,10,10,7.58,0.11,Green
+Arabica,Uganda,eastern,2013,8,7.5,7.5,7.58,7.33,7.42,10,10,10,7.58,0.12,Green
+Arabica,Uganda,west nile,2013,7.75,7.58,7.58,7.5,7.5,7.5,10,10,10,7.5,0.12,Green
+Arabica,Guatemala,antigua,2014,7.75,7.5,7.42,7.58,7.67,7.5,10,10,10,7.5,0.1,Green
+Arabica,Guatemala,antigua,2014,7.67,7.83,7.42,7.5,7.33,7.5,10,10,10,7.67,0.1,Green
+Arabica,Colombia,huila,2013,7.58,7.5,7.75,7.33,7.58,7.58,10,10,10,7.58,0.11,Green
+Arabica,Colombia,huila,2013,7.75,7.5,7.25,7.5,7.75,7.5,10,10,10,7.67,0,Bluish-Green
+Arabica,Guatemala,huehuetenango,2013,7.83,7.75,7.25,7.92,7.5,7.17,10,10,10,7.5,0.11,Green
+Arabica,Colombia,antioquia,2013,7.83,7.67,7.42,7.42,7.5,7.58,10,10,10,7.5,0.11,Green
+Arabica,Mexico,petatlan,2012,7.58,7.58,7.33,7.25,7.58,7.75,10,10,10,7.83,0.1,Green
+Arabica,Vietnam,don duong,2012,7.67,7.33,7.17,7.58,8.08,7.42,10,10,10,7.67,0,None
+Arabica,Mexico,la cumbre,2012,8,7.92,7.67,7.17,7.67,7.42,9.33,10,10,7.75,0.14,Green
+Arabica,United States (Hawaii),kona,2012,7.5,7.5,7.5,7.42,7.67,7.83,10,10,10,7.5,0.1,Green
+Arabica,Kenya,nyeri,2017,7.75,7.58,7.42,7.58,7.5,7.5,10,10,10,7.5,0.1,Green
+Arabica,Guatemala,san marcos,2017,7.5,7.58,7.33,7.67,7.58,7.58,10,10,10,7.58,0.11,Green
+Arabica,Brazil,south of minas,2015,7.67,7.58,7.58,7.5,7.5,7.42,10,10,10,7.58,0.11,Bluish-Green
+Arabica,El Salvador,"el balsamo, quezaltepec",2016,7.33,7.67,7.67,7.83,7.33,7.67,10,10,10,7.33,0,Green
+Arabica,Rwanda,gicumbi,2015,7.83,7.92,7.75,7.83,7.75,7.75,9.33,9.33,9.33,8,0.11,Bluish-Green
+Arabica,Vietnam,vietnam tutra,2014,7.25,7.58,7.5,7.42,7.75,7.42,10,10,10,7.92,0.11,Green
+Arabica,Guatemala,oriente,2015,7.58,7.58,7.33,7.67,7.67,7.5,10,10,10,7.5,0.11,Green
+Arabica,Brazil,cerrado,2015,7.58,7.83,7.33,7.67,7.42,7.33,10,10,10,7.67,0.12,Green
+Arabica,Guatemala,antigua,2014,7.67,7.67,7.75,7.67,7.42,7.17,10,10,10,7.5,0.1,Green
+Arabica,Colombia,santander,2013,7.5,7.42,7.58,7.5,7.58,7.58,10,10,10,7.67,0,Green
+Arabica,Colombia,huila,2013,7.83,7.5,7.5,7.42,7.5,7.5,10,10,10,7.58,0.11,Green
+Arabica,"Tanzania, United Republic Of",arusha,2012,7.67,7.5,7.33,7.25,7.58,7.75,10,10,10,7.75,0.11,Green
+Arabica,Mexico,la concordia,2012,7.58,7.67,7.5,7.58,7.5,7.5,10,10,10,7.5,0.12,Green
+Arabica,Mexico,veracruz,2012,7.67,7.58,7.42,7.75,7.42,7.42,10,10,10,7.58,0.12,Blue-Green
+Arabica,Guatemala,oriente,2012,7.67,7.67,7.33,7.5,7.33,7.92,10,10,10,7.42,0.11,Green
+Arabica,Guatemala,santa rosa,2017,7.58,7.67,7.5,7.58,7.5,7.42,10,10,10,7.5,0.11,Green
+Arabica,Guatemala,san marcos,2017,7.5,7.67,7.17,7.67,7.67,7.58,10,10,10,7.5,0.11,Green
+Arabica,Guatemala,santa rosa,2017,7.5,7.5,7.42,7.58,7.67,7.5,10,10,10,7.58,0.1,Green
+Arabica,Guatemala,oriente,2017,7.42,7.58,7.42,7.67,7.5,7.5,10,10,10,7.67,0.1,Green
+Arabica,Indonesia,sapan toraja,2017,7.5,7.58,7.42,7.58,7.58,7.5,10,10,10,7.58,0.12,Blue-Green
+Arabica,Guatemala,el progreso,2017,7.58,7.58,7.33,7.58,7.33,7.67,10,10,10,7.67,0.12,Green
+Arabica,Taiwan,"台南市東山區( dongshan dist., tainan city)",2016,7.83,7.67,7.33,7.67,7.58,7.67,9.33,10,10,7.67,0,Green
+Arabica,Costa Rica,tarrazu,2016,7.58,7.5,7.42,7.67,7.42,7.5,10,10,10,7.67,0.09,Bluish-Green
+Arabica,Honduras,comayagua,2017,7.58,7.5,7.42,7.58,7.5,7.5,10,10,10,7.67,0.09,Green
+Arabica,Brazil,south of minas,2015,7.5,7.5,7.58,7.5,7.58,7.58,10,10,10,7.5,0.11,Bluish-Green
+Arabica,China,yunnan,2015,7.67,7.5,7.33,7.33,7.67,7.67,10,10,10,7.58,0.1,Green
+Arabica,China,menglian,2015,7.5,7.67,7.42,7.67,7.5,7.5,10,10,10,7.5,0.11,Green
+Arabica,Colombia,huila,2014,7.5,7.58,7.58,7.75,7.33,7.5,10,10,10,7.5,0,Blue-Green
+Arabica,Malawi,mzuzu,2014,7.75,7.58,7.42,7.5,7.33,7.5,10,10,10,7.67,0.12,Bluish-Green
+Arabica,Guatemala,jalapa,2014,7.75,7.42,7.25,7.75,7.5,7.67,10,10,10,7.42,0.13,Green
+Arabica,Colombia,huila,2014,7.67,7.42,7.42,7.58,7.33,7.67,10,10,10,7.67,0.12,Green
+Arabica,United States (Hawaii),kona,2013,7.67,7.58,7.42,7.83,7.33,7.5,10,10,10,7.42,0.1,Blue-Green
+Arabica,United States (Hawaii),kona,2013,7.58,7.83,7.75,7.75,7.42,8,9.33,9.33,10,7.75,0.1,Green
+Arabica,Colombia,antioquia,2013,7.58,7.33,7.17,7.33,7.25,8.58,10,10,10,7.5,0.1,Green
+Arabica,Mexico,chiapas,2013,7.58,7.58,7.5,7.5,7.5,7.5,10,10,10,7.58,0.12,Green
+Arabica,Colombia,south huila,2012,7.5,7.58,7.42,7.67,7.5,7.58,10,10,10,7.5,0,Blue-Green
+Arabica,Colombia,huila,2012,7.67,7.58,7.58,7.58,7.5,7.42,10,10,10,7.42,0.11,Green
+Arabica,United States (Hawaii),kona,2012,7.25,7.75,7.5,7.83,7.67,7.67,9.33,10,10,7.75,0.12,Green
+Arabica,Panama,boquete,2012,7.42,7.42,7.5,7.58,7.5,7.75,10,10,10,7.58,0,Green
+Arabica,Brazil,south of minas,2017 / 2018,7.5,7.58,7.25,7.75,7.58,7.5,10,10,10,7.5,0,Green
+Arabica,Brazil,south of minas,2016,7.5,7.58,7.5,7.67,7.5,7.42,10,10,10,7.5,0.11,Bluish-Green
+Arabica,Laos,"paksong,laos",2015,7.67,7.67,7.42,7.42,7.42,7.5,10,10,10,7.58,0.13,Bluish-Green
+Arabica,El Salvador,"el balsamo, quezaltepec",2016,7.67,7.67,7.67,7.67,7.5,7.67,10,10,9.33,7.5,0,Green
+Arabica,Mexico,veracruz,2016,7.5,7.67,7.42,7.75,7.42,7.17,10,10,10,7.75,0.11,Green
+Arabica,Colombia,huila,2015,7.75,7.5,7.33,7.58,7.33,7.75,10,10,10,7.42,0,Green
+Arabica,Brazil,south of minas,2015/2016,7.58,7.5,7.42,7.67,7.5,7.5,10,10,10,7.5,0,Green
+Arabica,"Tanzania, United Republic Of",karatu arusha,2014,7.5,7.5,7.5,7.5,7.5,7.58,10,10,10,7.58,0.12,Green
+Arabica,"Tanzania, United Republic Of",mbinga,2014,7.58,7.5,7.5,7.58,7.33,7.58,10,10,10,7.58,0.12,Green
+Arabica,Taiwan,嘉義阿里山,2014,8,7.83,7.83,7.42,7.25,7.25,10,10,10,7.08,0.08,Green
+Arabica,Mexico,la yerba,2014,7.67,7.58,7.42,7.5,7.42,7.5,10,10,10,7.58,0.11,Green
+Arabica,Uganda,mt elgon,2013,7.67,7.5,7.33,7.67,7.5,7.5,10,10,10,7.5,0.12,Green
+Arabica,Taiwan,chiayi alishan 嘉義縣阿里山鄉,2013/2014,7.67,7.5,7.5,7.5,7.5,7.5,10,10,10,7.5,0.11,Green
+Arabica,Thailand,phahi,2013,7.42,7.5,7.5,7.67,7.58,7.5,10,10,10,7.5,0.11,Bluish-Green
+Arabica,Colombia,huila,2012,7.75,7.58,7.67,7.25,7.58,7.42,10,10,10,7.42,0.11,Bluish-Green
+Arabica,Guatemala,antigua,2012,7.67,7.67,7.17,7.67,7.5,7.5,10,10,10,7.5,0.11,Green
+Arabica,Thailand,thailand,2012,7.83,7.33,7.83,7.33,7.58,7.83,10,10,9.33,7.58,0.12,Bluish-Green
+Arabica,Colombia,52 narino (exact location: mattituy; municipal region: florida code 381,Spring 2011 in Colombia.,7.33,7.58,7.42,7.42,7.67,7.67,10,10,10,7.58,0.11,Green
+Arabica,Guatemala,oriente,2017,7.5,7.42,7.42,7.75,7.5,7.5,10,10,10,7.5,0.1,Green
+Arabica,Taiwan,國姓鄉 guoshing township,2016,7.67,7.42,7.5,7.42,7.58,7.5,10,10,10,7.5,0.11,Green
+Arabica,Brazil,south of minas,2016,7.5,7.58,7.42,7.5,7.75,7.33,10,10,10,7.5,0.11,Green
+Arabica,Taiwan,changhua baguashan 彰化市八卦山,2016 / 2017,7.25,7.25,7,7.08,7,7,10,10,10,10,0.11,Blue-Green
+Arabica,Brazil,campos altos - cerrado,2016,7.42,7.42,7.5,7.33,7.25,7.67,10,10,10,8,0,Green
+Arabica,Indonesia,aceh,2015,7.83,7.58,7.42,7.33,7.42,7.5,10,10,10,7.5,0.13,Blue-Green
+Arabica,Thailand,thailand,2014,7.75,7.33,7.42,7.67,7.42,7.5,10,10,10,7.5,0.12,Green
+Arabica,Thailand,chiangrai,2014,7.42,7.58,7.58,7.42,7.58,7.5,10,10,10,7.5,0.12,Blue-Green
+Arabica,Uganda,eastern,2013,7.83,7.5,7.42,7.58,7.42,7.42,10,10,10,7.42,0.12,Green
+Arabica,Costa Rica,central valley,2013,7.67,7.42,7.5,7.67,7,7.75,10,10,10,7.58,0.11,Green
+Arabica,Mexico,veracruz,2014,7.58,7.58,7.42,7.75,7.67,7.67,9.33,10,10,7.58,0,Green
+Arabica,Colombia,huila,2013,7.75,7.25,7.33,7.42,7.5,7.83,10,10,10,7.5,0.11,Blue-Green
+Arabica,Colombia,huila,2013,7.58,7.5,7.42,7.58,7.67,7.42,10,10,10,7.42,0.11,Green
+Arabica,Mexico,oaxaca,2012,7.5,7.58,7.5,7.5,7.42,7.5,10,10,10,7.58,0.1,Green
+Arabica,Mexico,colima,2012,7.67,7.58,7.58,7.75,7.67,6.83,10,10,10,7.5,0.12,Green
+Arabica,Colombia,huila,2012,7.33,7.42,7.58,7.42,7.67,7.5,10,10,10,7.67,0.11,Green
+Arabica,Brazil,south of minas,2017 / 2018,7.5,7.5,7.5,7.5,7.58,7.5,10,10,10,7.42,0.11,Green
+Arabica,Indonesia,bali,2017,7.83,7.75,7.25,7.5,7.42,7.33,10,10,10,7.42,0.11,Green
+Arabica,Honduras,comayagua,2017,7.58,7.58,7.33,7.5,7.5,7.5,10,10,10,7.5,0.1,Green
+Arabica,Guatemala,oriente,2016,7.5,7.5,7.33,7.5,7.67,7.5,10,10,10,7.5,0.1,Green
+Arabica,Thailand,thailand,2014,7.5,7.83,7.5,7.75,7.33,7.42,9.33,10,10,7.83,0.12,Green
+Arabica,"Tanzania, United Republic Of",karatu arusha,2014,7.67,7.42,7.33,7.58,7.5,7.5,10,10,10,7.5,0.12,Green
+Arabica,"Tanzania, United Republic Of",moshi,2014,7.75,7,7.42,7.58,7.58,7.58,10,10,10,7.58,0.12,Bluish-Green
+Arabica,Mexico,chiapas,2013,7.42,7.58,7.5,7.67,7.25,7.5,10,10,10,7.58,0,Green
+Arabica,Brazil,south of minas,2013/2014,7.42,7.5,7.67,7.33,7.42,7.67,10,10,10,7.5,0.11,Bluish-Green
+Arabica,Guatemala,oriente,2013,7.83,7.42,7.33,7.67,7.42,7.5,10,10,10,7.33,0.12,Green
+Arabica,Colombia,huila,2013,7.5,7.5,7.42,7.42,7.58,7.58,10,10,10,7.5,0.11,Green
+Arabica,Guatemala,oriente,2013,7.83,7.67,7.17,7.33,7.5,7.67,10,10,10,7.33,0.11,Green
+Arabica,Mexico,san bartolo tutotepec,2012,7.5,7.58,7.5,7.5,7.42,7.42,10,10,10,7.58,0.13,None
+Arabica,Mexico,zapotitlan de mendez,2012,7.67,7.5,7.33,7.67,7.5,7.33,10,10,10,7.5,0.12,Green
+Arabica,Guatemala,oriente,2012,7.67,7.33,7.33,7.33,7.5,7.83,10,10,10,7.5,0.11,Green
+Arabica,Brazil,carmo de minas,2012,7.67,7.42,7.33,7.67,7.5,7.5,10,10,10,7.42,0,Blue-Green
+Arabica,Colombia,huila,2012,7.67,7.5,7.33,7.5,7.25,7.67,10,10,10,7.58,0.11,Green
+Arabica,United States (Hawaii),kona,2012,7.33,7.42,7.33,7.75,7.42,7.67,10,10,10,7.58,0.12,Green
+Arabica,Honduras,"comayagua, honduras",2017,7.42,7.67,7.17,7.58,7.58,7.5,10,10,10,7.5,0.12,Green
+Arabica,Guatemala,san marcos,2017,7.58,7.5,7.33,7.75,7.33,7.5,10,10,10,7.42,0.1,Green
+Arabica,Guatemala,san marcos,2016,7.67,7.58,7.25,7.67,7.42,7.33,10,10,10,7.5,0.12,Green
+Arabica,Guatemala,el progreso,2017,7.58,7.5,7.25,7.67,7.5,7.5,10,10,10,7.42,0.12,Green
+Arabica,Guatemala,santa rosa,2017,7.5,7.42,7.08,7.75,7.67,7.5,10,10,10,7.5,0.11,Green
+Arabica,Colombia,guayata,2016,5.08,7.75,7.83,7.75,7.83,8.08,10,10,10,8.08,0.11,Green
+Arabica,China,yunnan,2015,7.67,7.42,7.42,7.5,7.42,7.42,10,10,10,7.58,0.1,Green
+Arabica,Brazil,campos altos - cerrado,2016,7.42,7.5,7.33,7.5,7.25,7.42,10,10,10,8,0.11,Green
+Arabica,"Tanzania, United Republic Of",arusha meru,2015/2016,7.67,7.25,7.42,7.42,7.67,7.42,10,10,10,7.58,0.13,Green
+Arabica,Brazil,south of minas,2015/2016,7.17,7.83,7.33,7.5,7.75,7.42,10,10,10,7.42,0,Green
+Arabica,Guatemala,atitlan,2013,7.5,7.5,7.5,7.67,7.42,7.5,10,10,10,7.33,0.1,Green
+Arabica,Mexico,la yerba,2014,7.42,7.5,7.42,7.58,7.42,7.5,10,10,10,7.58,0.11,Green
+Arabica,Brazil,south of minas,2012,7.58,7.67,7.33,7.5,7.5,7.42,10,10,10,7.42,0.12,Blue-Green
+Arabica,Peru,peru,2013,7.58,7.58,7.58,7.75,7.5,7.58,9.33,10,10,7.5,0,Green
+Arabica,Brazil,south of minas,2013/2014,7.25,7.33,7.25,7.5,7.42,7.5,10,10,10,8.17,0,Green
+Arabica,Mexico,veracruz,2013,7.5,7.58,7.5,7.92,7.42,7.67,9.33,10,10,7.5,0.12,Green
+Arabica,Colombia,huila,2013,7.67,7.42,7.33,7.5,7.58,7.5,10,10,10,7.42,0.11,Green
+Arabica,Mexico,chiapas,2013,7.5,7.42,7.42,7.67,7.42,7.58,10,10,10,7.42,0.12,Green
+Arabica,Mexico,san pedro cotzilnam,2012,7.42,7.58,7.5,7.42,7.58,7.5,10,10,10,7.42,0.13,Green
+Arabica,Mexico,coatepec,2012,7.42,7.58,7.33,7.58,7.5,7.5,10,10,10,7.5,0.14,Green
+Arabica,Mexico,xalapa,2012,7.75,7.33,7.25,7.58,7.58,7.33,10,10,10,7.58,0.13,Green
+Arabica,Mexico,zihuatanejo de azueta,2012,7.5,7.58,7.33,7.5,7.5,7.5,10,10,10,7.5,0.11,Green
+Arabica,Mexico,veracruz,2012,7.58,7.58,7.17,7.5,7.5,7.5,10,10,10,7.58,0.14,Green
+Arabica,Mexico,xicotepec de juarez,2012,7.58,7.33,7.33,7.58,7.5,7.5,10,10,10,7.58,0.11,Green
+Arabica,Mexico,fln mirador,2012,7.83,7.5,7.42,7.67,7.17,7.33,10,10,10,7.5,0.12,Bluish-Green
+Arabica,Brazil,south of minas,2012,7.75,7.5,7.42,7.42,7.5,7.42,10,10,10,7.42,0.11,Blue-Green
+Arabica,Colombia,huila,2011,7.33,7.58,7.17,7.58,7.42,7.58,10,10,10,7.75,0,Green
+Arabica,Honduras,comayagua,2017,7.5,7.58,7.33,7.5,7.42,7.42,10,10,10,7.58,0.1,Green
+Arabica,Brazil,cerrado,2016,7.33,7.5,7.5,7.33,7.5,7.5,10,10,10,7.67,0.11,Green
+Arabica,Brazil,cerrado,2016 / 2017,7.42,7.42,7.42,7.5,7.5,7.58,10,10,10,7.5,0.11,Green
+Arabica,Brazil,south of minas,2016,7.5,7.5,7.42,7.5,7.42,7.5,10,10,10,7.5,0.11,Bluish-Green
+Arabica,Costa Rica,tarrazu,2015,7.75,7.5,7.25,7.25,7.42,7.67,10,10,10,7.5,0.1,Bluish-Green
+Arabica,Costa Rica,tarrazu,2015,7.75,7.33,7.5,7.5,7.33,7.58,10,10,10,7.33,0,Green
+Arabica,China,xishuangbanna prefecture,2015,7.5,7.58,7.42,7.5,7.42,7.42,10,10,10,7.5,0.12,Green
+Arabica,Brazil,south of minas,2015/2016,8.25,7.83,7.25,8.33,8.17,8.08,10,6.67,10,7.75,0.07,Green
+Arabica,Brazil,chapadão de ferro (cerrado mineiro),2015,7.42,7.5,7.5,7.42,7.5,7.58,10,10,10,7.42,0.11,Green
+Arabica,Guatemala,huehuetenango,2015,7.5,7.42,7.17,7.83,7.5,7.5,10,10,10,7.42,0.1,Green
+Arabica,Malawi,mzuzu,2014,7.33,7.58,7.42,7.58,7.33,7.5,10,10,10,7.58,0.12,Green
+Arabica,Brazil,south of minas,2014/2015,7.75,8.08,7.67,8.08,8.08,8,10,10,6.67,8,0.11,Blue-Green
+Arabica,Guatemala,jalapa,2014,7.58,7.67,7.5,7.58,7.75,7.5,9.33,10,10,7.42,0.12,Green
+Arabica,Mexico,veracruz,2014,7.33,7.58,7.42,7.5,7.5,7.5,10,10,10,7.5,0.11,Green
+Arabica,Colombia,antioquia,2013,7.42,7.33,7.5,7.17,7.08,8.33,10,10,10,7.5,0.1,Green
+Arabica,Taiwan,changhua baguashan 彰化市八卦山,2013/2014,7.5,7.5,7.5,7.5,7.5,7.5,10,10,10,7.33,0.11,Green
+Arabica,Taiwan,taichung xinshe 台中市新社區,2013/2014,7.5,7.5,7.5,7.5,7.5,7.5,10,10,10,7.33,0.11,Green
+Arabica,Guatemala,oriente,2013,7.5,7.42,7.58,7.5,7.5,7.58,10,10,10,7.25,0.12,Green
+Arabica,Colombia,huila,2013,7.5,7.42,7.5,7.5,7.5,7.58,10,10,10,7.33,0,Green
+Arabica,Mexico,"la concordia, chiapas",2013,7.67,7.5,7.42,7.5,7.42,7.42,10,10,10,7.42,0.12,Green
+Arabica,Costa Rica,central valley,2012,7.92,7.58,7.25,7.75,7.92,7.58,9.33,9.33,10,7.67,0,Green
+Arabica,Guatemala,jalapa,2012,7.67,7.5,7.33,7.67,7.5,7.33,10,10,10,7.33,0.11,Green
+Arabica,Mexico,"jaltocan, hidalgo",2012,7.58,7.67,7.58,7.33,7,7.58,10,10,10,7.58,0.15,None
+Arabica,Mexico,veracruz,2012,7.67,7.58,7.5,7.58,7.5,7.5,10,10,10,7,0.13,Green
+Arabica,Guatemala,oriente,2012,7.5,7.67,7.33,7.5,7.33,7.5,10,10,10,7.5,0.1,Green
+Arabica,Brazil,grama valley,2012,7.58,7.5,7.42,7.5,7.5,7.42,10,10,10,7.42,0.12,Green
+Arabica,Mexico,santa catarina juquila,2012,8,7.75,7.33,7.33,7.08,7.67,9.33,10,10,7.83,0.11,Green
+Arabica,Brazil,south of minas,2012,7.58,7.58,7.25,7.58,7.42,7.5,10,10,10,7.42,0.11,Green
+Arabica,Colombia,huila,2012,7.83,7.58,7.33,7.25,7.58,7.42,10,10,10,7.33,0,Green
+Arabica,Guatemala,nuevo oriente,2016,7.67,7.5,7.25,7.67,7.42,7.42,10,10,10,7.33,0.11,Green
+Arabica,Brazil,south of minas,2015/2016,7.42,7.67,7.5,7.08,7.5,7.42,10,10,10,7.67,0,Green
+Arabica,El Salvador,apaneca,2014,7.58,7.67,7.5,7.67,7.83,8.42,9.33,9.33,9.33,7.58,0.12,Green
+Arabica,Honduras,marcala,2015,7.58,7.5,7.42,7.58,7.42,7.42,10,10,10,7.33,0.11,Green
+Arabica,Malawi,mzuzu,2014,7.58,7.42,7.33,7.42,7.58,7.5,10,10,10,7.42,0.13,Blue-Green
+Arabica,Brazil,south of minas,2014/2015,7.75,7.58,7.42,7.42,7.33,7.33,10,10,10,7.42,0.11,Green
+Arabica,Taiwan,nantou,2013/2014,7.5,7.5,7.5,7.5,7.5,7.5,10,10,10,7.25,0.11,Green
+Arabica,Mexico,veracruz,2013,7.58,7.58,7.42,7.42,7.42,7.42,10,10,10,7.42,0.12,Blue-Green
+Arabica,United States (Hawaii),kona,2013,7.33,7.42,7.5,7.67,7.5,7.42,10,10,10,7.42,0,Bluish-Green
+Arabica,Mexico,"calnali, hidalgo",2012,7.58,7.58,7.5,7.17,7.42,7.42,10,10,10,7.58,0.16,None
+Arabica,Guatemala,antigua,2012,7.5,7.5,7.33,7.58,7.67,7.33,10,10,10,7.33,0.11,Green
+Arabica,Mexico,veracruz,2012,7.5,7.58,7.42,7.67,7.33,7.42,10,10,10,7.33,0.13,Green
+Arabica,Mexico,juquila,2012,7.67,7.58,7.33,7.5,7.42,7.42,10,10,10,7.33,0.12,Green
+Arabica,Mexico,veracruz,2012,7.33,7.58,7.42,7.67,7.33,7.5,10,10,10,7.42,0.11,Green
+Arabica,Mexico,canoas,2012,7.42,7.5,7.42,7.58,7.42,7.5,10,10,10,7.42,0.1,Green
+Arabica,Colombia,huila,2012,7.5,7.42,7.67,7.33,7.58,7.33,10,10,10,7.42,0.12,Green
+Arabica,Colombia,huila,2012,7.67,7.33,7.33,7.33,7.5,7.5,10,10,10,7.58,0.11,Green
+Arabica,Brazil,south of minas,2016,7.42,7.42,7.5,7.42,7.42,7.5,10,10,10,7.5,0.11,Green
+Arabica,Honduras,comayagua,2015,7.5,7.5,7.17,7.42,7.5,7.5,10,10,10,7.58,0.11,Bluish-Green
+Arabica,"Tanzania, United Republic Of",ruvuma,2015,7.58,7.42,7.42,7.33,7.5,7.42,10,10,10,7.5,0.13,Green
+Arabica,"Tanzania, United Republic Of",northern,2015/2016,7.42,7.42,7.42,7.5,7.5,7.33,10,10,10,7.58,0.12,Green
+Arabica,Brazil,south of minas,2015/2016,6.92,7.58,7.42,7.33,7.83,7.5,10,10,10,7.58,0,Green
+Arabica,Thailand,thailand,2014,7.42,7.42,7.17,7.75,7.25,7.67,10,10,10,7.5,0.12,Bluish-Green
+Arabica,Honduras,marcala,2015,7.67,7.5,7.25,7.42,7.58,7.42,10,10,10,7.33,0.11,Green
+Arabica,Guatemala,atitlan,2014,7.42,7.42,7.5,7.5,7.42,7.5,10,10,10,7.42,0.09,Blue-Green
+Arabica,Brazil,cerrado,2014,7.58,7.5,7.42,7.25,7.5,7.42,10,10,10,7.5,0.12,Green
+Arabica,"Tanzania, United Republic Of","ilomba vilage, mbozi",2014,7.75,7.42,7.42,7.58,7.33,7.42,10,10,10,7.25,0.12,Green
+Arabica,Mexico,veracruz,2013,7.42,7.33,7.17,7.42,7.33,8.17,10,10,10,7.33,0.12,Green
+Arabica,Mexico,"la concordia, chiapas",2013,7.5,7.5,7.33,7.42,7.5,7.42,10,10,10,7.5,0.1,None
+Arabica,Taiwan,yunlin 雲林縣石壁,2013/2014,7.5,7.5,7.5,7.5,7.5,7.5,10,10,10,7.17,0.11,Green
+Arabica,Taiwan,"dongshan dist., tainan city 臺南市東山區",2012,7.67,7.5,7.5,7.17,7.17,7.58,10,10,10,7.58,0,Green
+Arabica,Colombia,huila,2013,7.33,7.25,7.25,7.58,7.75,7.5,10,10,10,7.5,0,Bluish-Green
+Arabica,Mexico,san bartolo tutotepec,2012,7.5,7.67,7,7.5,7.33,7.5,10,10,10,7.67,0.15,None
+Arabica,Guatemala,oriente,2012,7.25,7.75,7,7.75,8.17,7.75,10,10,9.33,7.17,0.12,None
+Arabica,Mexico,altotonga,2012,7.5,7.58,7.25,7.5,7.5,7.33,10,10,10,7.5,0.12,Green
+Arabica,Mexico,colima,2012,7,7.67,7.5,7.5,7.42,7.5,10,10,10,7.58,0.1,Green
+Arabica,Colombia,huila,2016,7.75,7.58,7.42,7.67,7.83,7.58,9.33,9.33,10,7.58,0,Green
+Arabica,Brazil,south of minas,2016,7.42,7.58,7.42,7.5,7.42,7.25,10,10,10,7.5,0.11,Green
+Arabica,Brazil,south of minas,2015/2016,7.25,7.25,7.58,7.58,7.25,7.92,10,10,10,7.25,0,Green
+Arabica,Costa Rica,tres rios,2015,7.75,7.42,7.42,7.25,7.17,7.42,10,10,10,7.67,0,Blue-Green
+Arabica,"Tanzania, United Republic Of",kilimanjaro,2014,7.42,7.33,7.42,7.42,7.5,7.58,10,10,10,7.42,0.12,Green
+Arabica,"Tanzania, United Republic Of",ngorogoro,2014,7.42,7.5,7.5,7.33,7.33,7.5,10,10,10,7.5,0.12,Green
+Arabica,Costa Rica,turrialba,2013,7.58,7.33,7.33,7.33,7.5,7.67,10,10,10,7.33,0.11,Green
+Arabica,United States (Hawaii),kona,2012,7.25,7.58,7.58,7.25,7.5,7.42,10,10,10,7.5,0.11,Bluish-Green
+Arabica,Mexico,coatepec,2012,7.42,7.58,7.5,7.33,7.42,7.42,10,10,10,7.42,0.13,Green
+Arabica,Mexico,tapachula,2012,7.5,7.42,7.42,7.5,7.25,7.5,10,10,10,7.5,0.13,Green
+Arabica,Mexico,coatepec,2012,7.67,7.5,7.25,7.58,7.42,7.33,10,10,10,7.33,0.11,Green
+Arabica,Vietnam,don duong,2012,7.67,8,7.17,7.08,7.67,7.08,10,10,10,7.42,0.12,Green
+Arabica,Mexico,veracruz,2012,7.58,7.42,7.25,7.75,7.33,7.42,10,10,10,7.33,0.11,Green
+Arabica,United States (Hawaii),kona,2012,7.33,7.5,7.33,7.58,7.08,7.83,10,10,10,7.42,0.1,Green
+Arabica,Honduras,el paraíso,2017,7.5,7.5,7.17,7.5,7.5,7.42,10,10,10,7.42,0.12,Green
+Arabica,Honduras,guinope el paraíso,2016,7.5,7.5,7.25,7.33,7.42,7.5,10,10,10,7.5,0.1,Green
+Arabica,Brazil,south of minas,2016,7.5,7.33,7.42,7.5,7.33,7.42,10,10,10,7.5,0.11,Green
+Arabica,"Tanzania, United Republic Of",kilimanjaro,2015,7.67,7.33,7.33,7.42,7.42,7.42,10,10,10,7.42,0.13,Green
+Arabica,Laos,lao p.d.r.,2015,7.42,7.5,7.25,7.33,7.5,7.5,10,10,10,7.5,0.12,Blue-Green
+Arabica,"Tanzania, United Republic Of",meru,2014,7.42,7.42,7.33,7.58,7.33,7.42,10,10,10,7.5,0.12,Green
+Arabica,Malawi,mzuzu,2014,7.5,7.42,7.33,7.58,7.33,7.5,10,10,10,7.33,0.13,Bluish-Green
+Arabica,Taiwan,"dongshan dist., tainan city 臺南市東山區",2013,7.33,7.5,7.17,7.42,7.5,7.33,10,10,10,7.75,0.09,Green
+Arabica,Thailand,thailand,2013,7.58,7.5,7.42,7.42,7.33,7.42,10,10,10,7.33,0.11,Green
+Arabica,Costa Rica,central valley,2013,7.5,7.25,7.33,7.33,7.75,7.5,10,10,10,7.33,0.1,Green
+Arabica,Honduras,occidental,2014,7.33,7.33,7.33,7.5,7.5,7.83,10,10,10,7.17,0.11,Green
+Arabica,Colombia,huila,2013,7.33,7.33,7.58,7.5,7.5,7.58,10,10,10,7.17,0.11,Green
+Arabica,Taiwan,"dongshan dist., tainan city 臺南市東山區",2012,7.42,7.58,7.33,7.42,8,7.5,9.33,10,10,7.42,0.12,Bluish-Green
+Arabica,Brazil,"minas gerais, br",2012,7.33,7.67,7.42,7.17,7.33,7.42,10,10,10,7.67,0.11,Blue-Green
+Arabica,Mexico,coscomatepec,2012,7.67,7.33,7.25,7.5,7.42,7.42,10,10,10,7.42,0.12,Green
+Arabica,Brazil,south of minas,2012,7.42,7.5,7.33,7.5,7.33,7.5,10,10,10,7.42,0.12,Green
+Arabica,Brazil,cerrado,2012,7.42,7.5,7.25,7.5,7.5,7.42,10,10,10,7.42,0.11,Blue-Green
+Arabica,Guatemala,san marcos,2012,7.33,7.33,7.33,7.5,7.67,7.67,10,10,10,7.17,0.11,Green
+Arabica,Brazil,south of minas,2012,7.58,7.5,7.17,7.5,7.5,7.42,10,10,10,7.33,0.12,Green
+Arabica,Guatemala,oriente,2012,7.75,7.33,7.33,7.42,7.75,7.67,10,10,9.33,7.42,0,Green
+Arabica,Guatemala,oriente,2017,7.58,7.5,7.25,7.58,7.58,7.5,9.33,10,10,7.58,0.1,Green
+Arabica,Guatemala,santa rosa,2017,7.5,7.5,7.25,7.42,7.42,7.42,10,10,10,7.42,0.11,Green
+Arabica,Honduras,comayagua,2017,7.58,7.5,7.25,7.33,7.42,7.5,10,10,10,7.33,0.12,Green
+Arabica,Brazil,monte carmelo,2016 / 2017,7.42,7.33,7.33,7.5,7.5,7.33,10,10,10,7.5,0.11,Green
+Arabica,El Salvador,"el balsamo, quezaltepec",2014,7.67,7.58,7.33,7.5,7.5,7.67,10,10,9.33,7.33,0.11,Green
+Arabica,Guatemala,nuevo oriente,2015,7.58,7.58,7.17,7.83,7.17,7.33,10,10,10,7.25,0.11,Green
+Arabica,"Tanzania, United Republic Of",mbeya,2014,7.33,7.33,7.33,7.42,7.5,7.58,10,10,10,7.42,0.12,Green
+Arabica,Taiwan,taichung xinshe 台中市新社區,2012,7.5,7.5,7.42,7.25,7.5,7.5,10,10,10,7.25,0.11,Green
+Arabica,Mexico,chiapas,2013,7.58,7.5,7.25,7.58,7.5,7.25,10,10,10,7.25,0.12,Green
+Arabica,Mexico,"chapulhuacan, hidalgo",2012,7.5,7.5,7.25,7.25,7.5,7.5,10,10,10,7.42,0.13,None
+Arabica,Mexico,"huazalingo, hidalgo",2012,7.5,7.42,7.25,7.5,7.33,7.33,10,10,10,7.58,0.14,None
+Arabica,Mexico,veracruz,2012,7.33,7.58,7.17,7.58,7.42,7.33,10,10,10,7.5,0.12,Green
+Arabica,Mexico,fortín de las flores,2012,7.67,7.42,7.33,7.83,7.5,7.5,9.33,10,10,7.33,0.12,Green
+Arabica,Brazil,grama valley,2012,7.42,7.58,7.25,7.5,7.33,7.5,10,10,10,7.33,0.12,Green
+Arabica,Guatemala,oriente,2017,7.42,7.5,7.25,7.5,7.33,7.42,10,10,10,7.42,0.1,Green
+Arabica,Costa Rica,tarrazu,2016,7.25,7.33,7.5,7.33,7.67,7.42,10,10,10,7.33,0,Green
+Arabica,Brazil,monte carmelo,2016,7.42,7.5,7.42,7.5,7.42,7.25,10,10,10,7.33,0.11,Green
+Arabica,Indonesia,bali,2015,7.75,7.83,7.58,7.75,7.92,7.83,10,10,10,5.17,0.11,Green
+Arabica,Guatemala,norte,2015,7.58,7.5,7.33,7.42,7.58,7.25,10,10,10,7.17,0.1,Green
+Arabica,Brazil,south of minas,2015/2016,7.17,7.58,6.83,7.5,7.75,7.25,10,10,10,7.75,0,Green
+Arabica,Brazil,south of minas,2015/2016,7.58,7,6.92,6.92,7.67,7.5,10,10,10,8.25,0,Green
+Arabica,Myanmar,ywar ngan,2015,7.33,7.58,7.5,7.42,7.33,7.33,10,10,10,7.33,0,Green
+Arabica,Mexico,chiapas,2015,7.58,7.5,7.33,7.5,7.17,7.33,10,10,10,7.42,0.11,Green
+Arabica,Honduras,marcala,2015,7.5,7.5,7.33,7.5,7.42,7.25,10,10,10,7.33,0.12,Green
+Arabica,Costa Rica,tres rios,2015,7.67,7.5,7.5,7.25,7.08,7.42,10,10,10,7.42,0.09,Green
+Arabica,Taiwan,"dongshan dist., tainan city 臺南市東山區",2014,7.67,7.33,7.17,7.25,7.75,7.33,10,10,10,7.33,0,Green
+Arabica,Indonesia,lington nihuta,2014,7.42,7.42,7.42,7.33,7.42,7.42,10,10,10,7.42,0.11,None
+Arabica,Malawi,kakoma,2014,7.58,7.42,7.33,7.33,7.33,7.42,10,10,10,7.42,0.13,Green
+Arabica,Brazil,south of minas,2014/2015,7.33,7.58,7.25,7.17,7.83,7.33,10,10,10,7.33,0.11,Green
+Arabica,Honduras,comayagua,2014,7.5,7.5,7.33,7.33,7.33,7.33,10,10,10,7.5,0.1,Green
+Arabica,Mexico,"siltepec el triunfo, chiapas, mexico",2014,7.42,7.42,7.25,7.5,7.33,7.42,10,10,10,7.5,0.11,Green
+Arabica,Colombia,huila,2013,7.5,7.5,7,7.42,7.5,7.58,10,10,10,7.33,0,Bluish-Green
+Arabica,United States (Hawaii),kona,2012,7.83,7.83,7.83,8,7.83,7.83,10,6.67,10,8,0,Bluish-Green
+Arabica,Brazil,sul de minas,2012,7.75,7.75,7.5,7.42,7.83,7.75,9.33,9.33,9.33,7.83,0.12,Bluish-Green
+Arabica,Guatemala,oriente,2013,7.83,7.67,7.33,7.33,7.67,7.83,9.33,10,9.33,7.5,0.11,Green
+Arabica,Mexico,veracruz,2012,7.83,7.33,7.25,7.58,7.25,7.33,10,10,10,7.25,0.12,Green
+Arabica,Mexico,coatepec,2012,7.33,7.33,7.25,7.5,7.5,7.5,10,10,10,7.42,0.12,Green
+Arabica,Guatemala,san marcos,2017,7.5,7.5,7.25,7.42,7.42,7.33,10,10,10,7.33,0.11,Green
+Arabica,Vietnam,vietnam,2014,7,7.08,7.33,7.5,7.5,7.33,10,10,10,8,0.12,Bluish-Green
+Arabica,"Tanzania, United Republic Of",ngorogoro,2014,7.42,7.42,7.42,7.42,7.33,7.33,10,10,10,7.42,0.12,Bluish-Green
+Arabica,Mexico,"tenango de doria, hidalgo",2012,7.5,7.5,7.33,7.42,7.25,7.25,10,10,10,7.5,0.13,None
+Arabica,Mexico,tepictla,2012,7.42,7.5,7.17,7.67,7.33,7.42,10,10,10,7.25,0.13,Green
+Arabica,Mexico,oaxaca,2012,7.42,7.5,7.33,7.58,7.33,7.33,10,10,10,7.25,0.11,Green
+Arabica,Mexico,la concordia,2012,7.33,7.42,7.33,7.67,7.42,7.25,10,10,10,7.33,0.12,Green
+Arabica,Colombia,huila,2011,7.33,7.42,7.33,7.33,7.5,7.67,10,10,10,7.17,0,Green
+Arabica,Brazil,south of minas,2017 / 2018,7.42,7.5,7.25,7.5,7.5,7.25,10,10,10,7.25,0.11,Green
+Arabica,Guatemala,san marcos,2017,7.42,7.42,7.08,7.42,7.33,7.42,10,10,10,7.58,0.1,Green
+Arabica,Guatemala,santa rosa,2017,7.42,7.33,7.17,7.67,7.33,7.42,10,10,10,7.33,0.12,Green
+Arabica,Honduras,marcala,2016,7.58,7.5,7.33,7.33,7.42,7.25,10,10,10,7.25,0.11,Blue-Green
+Arabica,"Tanzania, United Republic Of",mbinga,2016,7.17,7.33,7.33,7.42,7.5,7.33,10,10,10,7.58,0,Green
+Arabica,Brazil,south of minas,2015/2016,7.25,7.75,6.92,7.42,7.5,7.58,10,10,10,7.25,0,Green
+Arabica,"Tanzania, United Republic Of",mbinga,2014,7.42,7.33,7.25,7.42,7.5,7.42,10,10,10,7.33,0.12,Green
+Arabica,"Tanzania, United Republic Of","ilomba vilage, mbozi",2013,7.33,7.33,7.5,7.25,7.42,7.33,10,10,10,7.5,0.12,Green
+Arabica,Brazil,south of minas,2014/2015,7.25,7.42,7.25,7.5,7.5,7.42,10,10,10,7.33,0.1,Green
+Arabica,Indonesia,bener meriah,2013,7.17,7.42,7.33,7.42,7.33,7.42,10,10,10,7.58,0.11,Bluish-Green
+Arabica,Honduras,comayagua,2014,7.5,7.33,7.5,7.5,7.17,7.17,10,10,10,7.5,0.1,Green
+Arabica,Costa Rica,tarrazu,2013,7.5,7.17,7.17,7.17,7.5,7.08,10,10,10,8.08,0.11,Green
+Arabica,Mexico,veracruz,2014,7.42,7.42,7.67,8,7.58,7.5,9.33,9.33,10,7.42,0,Green
+Arabica,Taiwan,changhua baguashan 彰化市八卦山,2013/2014,7.5,7.5,7.5,7.25,7.42,7.25,10,10,10,7.25,0.11,Green
+Arabica,Taiwan,nantou,2013/2014,7.58,7.42,7.33,7.42,7.33,7.33,10,10,10,7.25,0.11,Green
+Arabica,Mexico,"la concordia, chiapas",2013,7.5,7.42,7.08,7.58,7.33,7.33,10,10,10,7.42,0.12,Green
+Arabica,Guatemala,jalapa,2012,7.5,7.67,7.33,7.33,7.33,7.33,10,10,10,7.17,0.11,Green
+Arabica,Mexico,tuxtla gutierrez,2012,7.25,7.67,7.58,7.67,7.67,7.58,8.67,10,10,7.58,0.13,Green
+Arabica,Mexico,yajalon,2012,7.67,7.25,7.17,7.75,7.5,7.25,10,10,10,7.08,0.11,Green
+Arabica,Mexico,veracruz,2012,7.5,7.42,7.33,7.42,7.42,7.42,10,10,10,7.17,0.11,Green
+Arabica,Mexico,"la concordia, chiapas",2012,7.58,7.42,7.25,7.58,7.25,7.17,10,10,10,7.42,0.11,Green
+Arabica,Mexico,"sacún palma, municipio de chilón, chiapas",2012,7.75,7.58,7.25,7.17,7.58,7.33,9.33,10,10,7.67,0.11,Green
+Arabica,United States (Hawaii),kona,2012,7.42,7.33,7.33,7.33,7.17,7.83,10,10,10,7.25,0.1,Green
+Arabica,Honduras,western region,2018,7.5,7.42,7.08,7.42,7.5,7.33,10,10,10,7.33,0.11,Blue-Green
+Arabica,Guatemala,huehuetenango,2017,7.42,7.42,7.08,7.5,7.42,7.33,10,10,10,7.42,0.12,Green
+Arabica,Taiwan,natou county,2016,7.42,7.42,7.25,7.67,7.33,7.25,10,10,10,7.25,0.1,Blue-Green
+Arabica,Costa Rica,turrialba,2015,7.58,7.42,7.5,7.17,7.08,7.58,10,10,10,7.25,0.12,Green
+Arabica,"Tanzania, United Republic Of","oldeani , mongola",2014,7.42,7.42,7.33,7.42,7.42,7.33,10,10,10,7.25,0.12,Green
+Arabica,Malawi,mzuzu,2014,7.42,7.42,7.17,7.58,7.33,7.33,10,10,10,7.33,0.13,Green
+Arabica,Brazil,south of minas,2013/2014,7.42,7.42,7.33,7.33,7.5,7.25,10,10,10,7.33,0.12,Blue-Green
+Arabica,Guatemala,oriente,2013,7.42,7.33,7.17,7.58,7.42,7.5,10,10,10,7.17,0.12,Green
+Arabica,Mexico,"la concordia, chiapas",2013,7.67,7.5,7.42,7.5,6.75,7.42,10,10,10,7.33,0.12,Green
+Arabica,Guatemala,santa rosa,2017,7.67,7.58,7.17,7.42,7.33,7.42,9.33,10,10,7.58,0.1,Green
+Arabica,Nicaragua,jalapa,2017,7.5,7.42,7.33,7.33,7.25,7.33,10,10,10,7.33,0.11,Green
+Arabica,Honduras,comayagua,2017,7.5,7.5,7.33,7.42,7.17,7.25,10,10,10,7.33,0.1,Green
+Arabica,Guatemala,santa rosa,2017,7.5,7.42,7.25,7.25,7.5,7.25,10,10,10,7.33,0.12,Green
+Arabica,Taiwan,古坑鄉荷包村尖山坑60號,2015,7.5,7.42,7.33,7.08,7.58,7.25,10,10,10,7.33,0.12,Green
+Arabica,Myanmar,ywar ngan township,2015,7.25,7.42,7.25,7.5,7.33,7.33,10,10,10,7.42,0,Green
+Arabica,Costa Rica,occidental,2014,7.83,7.33,7.08,7.08,7.33,7.5,10,10,10,7.33,0.12,Green
+Arabica,Malawi,mzuzu,2014,7.67,7.42,6.92,7.5,7.5,7.17,10,10,10,7.33,0.12,Green
+Arabica,Guatemala,oriente,2014,7.5,7.42,7.17,7.58,7.25,7.42,10,10,10,7.17,0.12,Green
+Arabica,Taiwan,natou county,2014,7.42,7.33,7.67,7.33,7.42,7.5,10,10,9.33,7.5,0.11,Blue-Green
+Arabica,Brazil,sul de minas,2014,7.58,7.5,7.5,7.67,7.67,7.83,9.33,9.33,9.33,7.75,0,Green
+Arabica,Haiti,"dondon, haiti",2013,7.42,7.33,7.25,7.42,7.42,7.33,10,10,10,7.33,0.11,Bluish-Green
+Arabica,Taiwan,taichung xinshe 台中市新社區,2013/2014,7.5,7.42,7.25,7.25,7.33,7.33,10,10,10,7.42,0.11,Green
+Arabica,Mexico,"la concordia, chiapas",2013,7.33,7.33,7.17,7.42,7.5,7.5,10,10,10,7.25,0.13,Green
+Arabica,Mexico,amatenango de la frontera,2012,7.58,7.42,7.25,7.42,7.33,7.33,10,10,10,7.17,0.12,Green
+Arabica,Mexico,temaxcalapa,2012,7.42,7.25,7.17,7.42,7.17,8,10,10,10,7.08,0.12,Green
+Arabica,Mexico,manzanillo,2012,7.33,7.5,7.33,7.33,7.33,7.42,10,10,10,7.25,0.11,Green
+Arabica,Mexico,tapachula,2012,7.42,7.42,7.33,7.17,7.25,7.42,10,10,10,7.5,0.13,Green
+Arabica,Mexico,atoyac de alvarez,2012,7.5,7.5,7.25,7.5,7.42,7.58,9.33,10,10,7.42,0.11,Green
+Arabica,Indonesia,ijen,2012,7.75,7.17,7.17,7.33,7.58,7.33,10,10,10,7.17,0.12,Green
+Arabica,Brazil,sul de minas,2012,7.5,7.42,7.17,7.42,7.5,7.33,10,10,10,7.17,0.12,Blue-Green
+Arabica,Guatemala,oriente,2012,7.33,7.5,7.33,7.42,7.17,7.33,10,10,10,7.42,0.11,Green
+Arabica,Mexico,veracruz,2017,7.58,7.33,7.08,7.33,7.5,7.33,10,10,10,7.25,0.12,Green
+Arabica,Guatemala,san marcos,2016,7.42,7.33,7.08,7.58,7.33,7.25,10,10,10,7.42,0.1,Green
+Arabica,Brazil,cerrado,2015/2016,7.33,7.5,7.5,7.33,6.83,7.42,10,10,10,7.5,0.11,Green
+Arabica,Honduras,marcala,2015,7.5,7.33,7.17,7.25,7.5,7.42,10,10,10,7.25,0.12,Green
+Arabica,Taiwan,苗栗三灣,2014,7.83,7.75,7.42,7.17,7.08,7.08,10,10,10,7.08,0.12,Green
+Arabica,Malawi,mzuzu,2014,7.58,7.17,7.33,7.42,7.08,7.42,10,10,10,7.42,0.12,Bluish-Green
+Arabica,Brazil,south of minas,2014/2015,7.25,7.5,7.42,7.17,7.33,7.33,10,10,10,7.42,0,Green
+Arabica,Guatemala,"san lucas toliman, solola",2014,7.42,7.5,7.17,7.42,7.42,7.42,10,10,10,7.08,0.1,Green
+Arabica,Mexico,siltepec el triunfo,2014,7.67,7.33,7.25,7.17,7.25,7.42,10,10,10,7.33,0,Green
+Arabica,Peru,puno,2013,7.42,7.42,7.17,7.33,7.42,7.42,10,10,10,7.25,0.1,Bluish-Green
+Arabica,Guatemala,oriente,2013,7.42,7.33,7.25,7.42,7.42,7.5,10,10,10,7.08,0.12,Green
+Arabica,Mexico,"huazalingo, hidalgo",2012,7.42,7.33,7.25,7.17,7.25,7.42,10,10,10,7.58,0.13,None
+Arabica,Colombia,huila,2011,7.5,7.42,7.25,7.17,7.17,7.75,10,10,10,7.17,0.11,Green
+Arabica,Honduras,comayagua,2016 / 2017,7.5,7.5,7,7.17,7.5,7.33,10,10,10,7.33,0.11,Bluish-Green
+Arabica,Mexico,veracruz,2016,7.67,7.42,7,7.42,7.58,7.08,10,10,10,7.17,0.12,Green
+Arabica,Brazil,cerrado,2015/2016,7.25,7.33,7.33,7.33,7.33,7.42,10,10,10,7.33,0.11,Green
+Arabica,Honduras,marcala,2015,7.58,7.42,7.17,7.42,7.17,7.17,10,10,10,7.42,0.09,Green
+Arabica,Brazil,mantiqueira de minas,2014/2015,7.17,7.33,7.42,7.25,7.42,7.33,10,10,10,7.42,0.12,Green
+Arabica,Philippines,"davao city, region 11",2014,7.08,7.33,7.42,7.33,7.33,7.5,10,10,10,7.33,0.14,Green
+Arabica,Malawi,mzuzu,2014,7.75,7.33,7.08,7.33,7.33,7.25,10,10,10,7.25,0.13,Green
+Arabica,Honduras,san marcos,2014,7.33,7.33,7.17,7.33,7.5,7.33,10,10,10,7.33,0.12,Green
+Arabica,Mexico,tapachula,2012,7.58,7.42,7.25,7.33,7.25,7.25,10,10,10,7.25,0.13,Green
+Arabica,Mexico,veracruz,2012,7.33,7.25,7.17,7.42,7.58,7.33,10,10,10,7.25,0.12,None
+Arabica,Taiwan,"dongshan dist., tainan city 台南市東山區",2015,7.83,7.75,7.67,7.83,7.83,7.75,9.33,10,10,5.25,0.12,Green
+Arabica,Brazil,south of minas,2015/2016,7.17,7.42,7.17,7.08,6.92,8.17,10,10,10,7.33,0,Green
+Arabica,Nicaragua,jinotega,2015,7.08,7.5,7.33,7.17,7.42,7.25,10,10,10,7.5,0.1,Green
+Arabica,Honduras,marcala,2015,7.42,7.17,7.17,7.5,7.33,7.25,10,10,10,7.42,0.12,Green
+Arabica,Guatemala,huehuetenango,2014,7.33,7.42,7.17,7.25,7.42,7.33,10,10,10,7.33,0.09,Bluish-Green
+Arabica,"Tanzania, United Republic Of",karatu ngorogoro,2014,7.33,7.17,7.17,7.5,7.25,7.42,10,10,10,7.42,0.13,Green
+Arabica,Taiwan,nantou,2013/2014,7.5,7.5,7.25,7.25,7.25,7.25,10,10,10,7.25,0.11,Green
+Arabica,Guatemala,"sacatepequez, guatemala",2013,7.5,7.33,7.5,7.58,7,7.25,10,10,10,7.08,0.11,Green
+Arabica,Mexico,motozintla,2012,7.42,7.42,7.33,7.33,7.5,7.42,9.33,10,10,7.5,0.12,Green
+Arabica,Nicaragua,"dipilto, nueva segovia",2016,7.33,7.5,7.17,7.17,7.58,7.17,10,10,10,7.25,0.09,Green
+Arabica,"Tanzania, United Republic Of","ruvuma, mbinga",2015/2016,7.67,7.17,7.17,7.33,7.5,7.17,10,10,10,7.17,0.12,Green
+Arabica,Mexico,"chiapas, jaltenango",2015,7.75,7.58,7.08,7.25,7.08,7.25,10,10,10,7.17,0.12,Green
+Arabica,Costa Rica,tres rios,2015,7.5,7.5,7.33,7.17,7.08,7.17,10,10,10,7.42,0.11,Bluish-Green
+Arabica,Honduras,central region,2015,7.42,7.33,7,7.42,7.33,7.33,10,10,10,7.33,0.13,Green
+Arabica,Thailand,chiangrai,2014,6.83,7.42,7.42,7.17,7.5,7.42,10,10,10,7.42,0.12,Blue-Green
+Arabica,Philippines,corillera administrative,2014,7.25,7.25,7.25,7.08,7.58,7.5,10,10,10,7.25,0,None
+Arabica,"Tanzania, United Republic Of",mbinga,2014,7.58,7.17,7.17,7.33,7.33,7.25,10,10,10,7.33,0.12,Bluish-Green
+Arabica,Malawi,southern- zomba,2014,7.58,7.25,7.33,7.08,7.33,7.33,10,10,10,7.25,0.12,Green
+Arabica,Costa Rica,central valley,2014,7.33,7.08,7.33,7.25,7.33,7.58,10,10,10,7.25,0.11,Green
+Arabica,Brazil,monte carmelo,2013,7.42,7.42,7.17,7.42,7.33,7.25,10,10,10,7.17,0.11,Green
+Arabica,Mexico,tapachula,2012,7.42,7.25,7.08,7.75,7.42,7.17,10,10,10,7.08,0.13,Green
+Arabica,Guatemala,oriente,2012,7.42,7.25,7.33,7.25,7.25,7.42,10,10,10,7.25,0.12,Green
+Arabica,Brazil,south of minas,2012,7.42,7.33,7.25,7.42,7.5,7.17,10,10,10,7.08,0.12,Green
+Arabica,Brazil,alta paulista (sao paulo),2016,7.58,7.42,7.5,7.25,7.75,7.58,9.33,10,9.33,7.33,0.11,Green
+Arabica,"Tanzania, United Republic Of","iwala village, mbeya rural",2014,7.42,7.33,7.33,7.25,7.25,7.33,10,10,10,7.17,0.13,Green
+Arabica,Costa Rica,naranjo,2014,7.42,7.25,7.17,7.25,7.25,7.58,10,10,10,7.17,0.13,Green
+Arabica,United States (Puerto Rico),yauco region,2013,7.67,7.75,7.67,7.58,7.58,7.67,6.67,10,10,8.5,0,Green
+Arabica,Mexico,san fernando,2012,7.25,7.42,7.33,7.33,7.17,7.33,10,10,10,7.25,0.13,None
+Arabica,Mexico,santo reyes nopala,2012,7.33,7.25,7.33,7.42,7.25,7.42,10,10,10,7.08,0.12,Green
+Arabica,Mexico,santa maria sitepec,2012,7.33,7.33,7.25,7.42,7.25,7.25,10,10,10,7.25,0.11,Green
+Arabica,Mexico,talpa de allende,2012,7.42,7.33,7.25,7.42,7.17,7.25,10,10,10,7.25,0.1,Green
+Arabica,El Salvador,apaneca,2017,7.42,7.08,7.08,7.33,7.25,7.58,10,10,10,7.25,0,Green
+Arabica,Brazil,grama valley,2016 / 2017,7.33,7.17,7.17,7.67,7.33,7.17,10,10,10,7.17,0.11,Bluish-Green
+Arabica,Guatemala,norte,2016,7.42,7.25,7.17,7.5,7.25,7.17,10,10,10,7.25,0.09,Green
+Arabica,Colombia,guayata,2016,7.67,7.5,7.42,5.25,7.67,7.75,10,10,10,7.75,0,Green
+Arabica,Guatemala,oriente,2015,7.5,7.25,7,7.25,7.5,7.25,10,10,10,7.25,0.11,Green
+Arabica,Taiwan,"dongshan dist., tainan city 臺南市東山區",2015,7.25,7.17,7.17,7.25,7.5,7.33,10,10,10,7.33,0.12,Bluish-Green
+Arabica,Honduras,san marcos,2014,7.42,7.25,7.25,7.33,7.25,7.17,10,10,10,7.33,0.12,Green
+Arabica,Brazil,cerrado,2014,7.67,7.75,7.83,7.75,7.83,7.75,10,6.67,10,7.75,0.12,Green
+Arabica,"Tanzania, United Republic Of",arusha,2014,7.33,7.33,7.08,7.42,7.17,7.33,10,10,10,7.33,0.12,Green
+Arabica,Uganda,eastern,2013,7.33,6.92,7.17,7.33,7.42,7.42,10,10,10,7.42,0.12,Green
+Arabica,Taiwan,nantou,2013/2014,7.5,6.92,7.33,7.33,7.33,7.33,10,10,10,7.25,0.11,Green
+Arabica,Thailand,thailand,2012,7.33,7.42,7.25,7.42,7.25,7.17,10,10,10,7.17,0,Green
+Arabica,Mexico,"motozintla, chiapas",2012,7.08,7.33,7.33,7.33,7.42,7.25,10,10,10,7.25,0.12,Green
+Arabica,Mexico,adolfo lopez mateos,2012,7.58,7.67,7.5,7.67,7.58,7.5,8,10,10,7.5,0,Green
+Arabica,Taiwan,taiwan,2017,7.33,7.17,7.25,7.33,7.33,7.25,10,10,10,7.25,0,Blue-Green
+Arabica,Guatemala,oriente,2017,7.67,7.67,7.33,7.58,7.67,7.5,9.33,9.33,9.33,7.5,0.1,Green
+Arabica,Kenya,kiambu,2017,7.17,7.58,7.5,7.5,8,7.75,10,10,10,5.42,0.11,Green
+Arabica,Mexico,veracruz,2017,7.5,7.33,7.17,7.42,7.5,7.33,9.33,10,10,7.33,0.11,Green
+Arabica,United States (Hawaii),kona,2014,7.42,7.08,7.17,7.17,7.58,7.25,10,10,10,7.25,0.1,Bluish-Green
+Arabica,"Tanzania, United Republic Of","manyara, karatu",2014,7.33,7.17,7.17,7.25,7.42,7.33,10,10,10,7.25,0.12,Green
+Arabica,Brazil,mantiqueira de minas,2014/2015,7.25,7.33,7.25,7.25,7.25,7.33,10,10,10,7.25,0.12,Green
+Arabica,Taiwan,台中新社,2014,7.92,7.67,7.33,7.08,7.08,7.08,10,10,10,6.75,0.09,Green
+Arabica,Brazil,south of minas,2014/2015,7.17,7.42,7.17,7.25,7.25,7.33,10,10,10,7.33,0.1,None
+Arabica,Nicaragua,matagalpa,2013,7.33,7.08,7.25,7,7.5,7.42,10,10,10,7.33,0.1,Green
+Arabica,Guatemala,jalapa,2014,7.58,7.42,6.92,7.5,7.25,7.17,10,10,10,7.08,0.12,Green
+Arabica,Taiwan,nantou,2013/2014,7.25,7.17,7.08,7.08,7.08,8.08,10,10,10,7.17,0.11,Green
+Arabica,Taiwan,new taipei zhonghe 新北市中和區,2013/2014,7.42,7.25,7.25,7.25,7.25,7.25,10,10,10,7.25,0.11,Green
+Arabica,Mexico,ixhuatlan del cafe,2012,7.58,7.33,7.08,7.5,7.17,7.25,10,10,10,7,0.13,Green
+Arabica,Laos,"paksong,laos",2016,7.42,7.33,7.17,7.17,7.17,7.25,10,10,10,7.33,0,Green
+Arabica,Guatemala,orient,2013,7.67,7.25,7.08,7.33,7.17,7.25,10,10,10,7.08,0.11,Green
+Arabica,Mexico,motozintla,2012,7.17,7.08,7.25,7.42,7.25,7.33,10,10,10,7.33,0.13,Green
+Arabica,Mexico,oaxaca,2012,7.33,7.25,7.33,7.33,7.25,7.17,10,10,10,7.17,0.11,Green
+Arabica,Mexico,veracruz,2012,7.5,7.17,7.33,7.25,7.17,7.17,10,10,10,7.25,0.13,Green
+Arabica,United States (Hawaii),kona,2012,7.42,7.33,7,7.25,7.33,7.5,10,10,10,7,0.1,Blue-Green
+Arabica,Brazil,monte carmelo,2015/2016,7.17,7.25,7.08,7.17,7.25,7.58,10,10,10,7.25,0,Green
+Arabica,Myanmar,ywar ngan,2015,6.92,7.5,7,7.58,7.5,7.08,10,10,10,7.17,0,Green
+Arabica,Guatemala,huehuetenango,2015,7.5,7.33,7,7.42,7.17,7.17,10,10,10,7.17,0.12,Green
+Arabica,Nicaragua,jinotega,2015,7.25,7.25,7.17,7.25,7.33,7.25,10,10,10,7.25,0.12,Green
+Arabica,Honduras,"siguatepeque, comayagua",2015,7.5,7.33,7,7.42,7.25,7.17,10,10,10,7.08,0.11,Green
+Arabica,Panama,boquete,2014,7.25,7.33,7.17,7.33,7.33,7.17,10,10,10,7.17,0.11,Green
+Arabica,Honduras,marcala,2015,7.42,7.17,7.08,7.42,7.25,7.25,10,10,10,7.17,0.09,Green
+Arabica,Honduras,central region,2015,7.25,7.33,7.08,7.5,7.25,7.33,10,10,10,7,0.13,Green
+Arabica,Costa Rica,san ramon,2014,7.33,7.33,7.25,7.25,7.17,7.17,10,10,10,7.25,0.11,Green
+Arabica,Mexico,oaxaca,2012,7.58,7.33,7.42,7.25,7.5,7.5,9.33,9.33,10,7.5,0.11,Green
+Arabica,Haiti,haiti,2012,7.42,7,7.42,7.25,7.08,7.33,10,10,10,7.25,0.12,Green
+Arabica,United States (Hawaii),kona,2011,7.08,7.33,7.17,7.25,7.33,7.67,10,10,10,6.92,0.13,Bluish-Green
+Arabica,Taiwan,taiwan,2016,7.33,7.08,7.08,7.08,7.42,7.33,10,10,10,7.33,0,Green
+Arabica,Indonesia,sumatra brastagi,2015,7.58,7.42,7,7.67,7.5,7.5,9.33,9.33,10,7.33,0.13,Blue-Green
+Arabica,Guatemala,antigua,2015/2016,7.67,7.42,6.83,7.17,7.42,7.17,10,10,10,7,0.11,Green
+Arabica,Costa Rica,tarrazu,2015,7.83,7.5,7.67,7.67,7.83,7.5,6.67,10,10,8,0.11,Blue-Green
+Arabica,Malawi,southern- zomba,2014,7.5,7.25,7.17,7.17,7.25,7.17,10,10,10,7.17,0.12,Bluish-Green
+Arabica,Mexico,"el desmoronado, talpan de allende jalisco",2014,7.25,7.17,7.17,7.25,7.17,7.42,10,10,10,7.25,0.12,Green
+Arabica,Guatemala,"san lucas toliman, solola",2013,7.67,7.17,7,7.5,7,7,10,10,10,7.33,0.12,Green
+Arabica,Guatemala,oriente,2012,7,7.33,7.5,7.33,7,7.33,10,10,10,7.17,0.11,Green
+Arabica,Guatemala,oriente,2012,7,7.5,7.33,7.17,7.17,7.17,10,10,10,7.33,0.11,Green
+Arabica,Brazil,monte carmelo,2016,7.33,7.25,7.33,7.08,7.58,7.25,9.33,10,10,7.42,0.11,Green
+Arabica,Nicaragua,nueva segovia,2016,7.08,7.5,7,7.25,7.42,7,10,10,10,7.33,0.11,Green
+Arabica,"Tanzania, United Republic Of",arusha,2014,7.25,7.08,7.08,7.33,7.33,7.25,10,10,10,7.25,0.12,Bluish-Green
+Arabica,Brazil,south of minas,2014/2015,7.42,7.25,7.33,7,7.08,7.25,10,10,10,7.25,0,Green
+Arabica,Honduras,occidental,2014,7.5,7.17,7,7.42,7.33,7,10,10,10,7.17,0.11,Green
+Arabica,Guatemala,huehuetenango,2014,7.17,7.42,6.83,7.5,7.17,7.25,10,10,10,7.25,0.11,Green
+Arabica,Taiwan,taiwan,2017,7.17,7.17,7.17,7.42,7.17,7.25,10,10,10,7.17,0,Blue-Green
+Arabica,Guatemala,santa rosa,2017,7.33,7.25,7.08,7.17,7.25,7.17,10,10,10,7.25,0.1,Green
+Arabica,Honduras,ocotepeque,2017,7.58,7.33,7,7.17,7.33,7.08,10,10,10,7,0.11,Green
+Arabica,Mauritius,chamarel (south west),2016,7.25,7.25,7.17,7.17,7.25,7.17,10,10,10,7.25,0.12,Green
+Arabica,Brazil,vale da grama,2015/2016,7.25,7.33,7.17,7.5,7.33,7.25,9.33,10,10,7.33,0.11,Green
+Arabica,Myanmar,pyin oo lwin,2015,7.17,7.33,7.17,7.42,7.25,7.08,10,10,10,7.08,0,Green
+Arabica,Guatemala,oriente,2014,7.5,7.17,6.83,7.5,7.17,7.17,10,10,10,7.17,0.11,Green
+Arabica,Brazil,mantiqueira de minas,2013,7.42,7.42,7.08,7.33,7.67,7.5,9.33,9.33,10,7.42,0.1,None
+Arabica,United States (Hawaii),kona,2013,7.42,7.33,7.33,7.58,7.58,7.42,8.67,10,10,7.17,0.11,Green
+Arabica,Guatemala,huehuetenango,2013,7.5,7.5,7,7.67,7.17,7,10,10,10,6.67,0.12,Green
+Arabica,Mexico,zaragoza itundujia,2012,7.25,7.25,7.08,7.33,7.25,7.17,10,10,10,7.17,0.15,None
+Arabica,Honduras,marcala,2016,7.25,7.42,7,7.42,7.33,7,10,10,10,7,0.1,Green
+Arabica,Taiwan,南投國姓,2014,7.58,7.17,7.17,7.17,7.17,7.17,10,10,10,7,0.14,Green
+Arabica,El Salvador,"department of ahuachapan, municipality of apanecallamatepec mountain",2013,7.33,7.17,7.08,7.08,7.33,7.17,10,10,10,7.25,0,Green
+Arabica,China,yunnan,2013,7.25,7.08,7.25,7.17,7.33,7.17,10,10,10,7.17,0.17,Green
+Arabica,Taiwan,nantou,2013/2014,7.25,7.25,7.17,7.25,7.25,7.25,10,10,10,7,0.11,Green
+Arabica,Mexico,pochutla,2012,6.92,7.17,7.08,7.5,7.33,7.17,10,10,10,7.25,0.1,Green
+Arabica,Mexico,la concordia,2012,7.42,7.08,7.08,7.33,7.25,7.17,10,10,10,7.08,0.12,Green
+Arabica,Burundi,mumirwa,2016,7.08,7.25,7.17,7.33,7.08,7.08,10,10,10,7.33,0.12,Green
+Arabica,"Tanzania, United Republic Of",mkuu rombo,2015/2016,7.25,7.17,7,7.25,7.42,7.08,10,10,10,7.17,0.13,Green
+Arabica,"Tanzania, United Republic Of",arusha,2014,7.25,7.17,7.25,7.25,7.25,7.08,10,10,10,7.08,0.12,Bluish-Green
+Arabica,Taiwan,taichung xinshe 台中市新社區,2013/2014,7.25,7.25,7.08,7.25,7.25,7.25,10,10,10,7,0.11,Green
+Arabica,Guatemala,oriente,2013,7.33,7.33,6.83,7.5,7,7.17,10,10,10,7.17,0.11,Green
+Arabica,Mexico,chilón,2012,7.25,7.08,7.08,7.33,7.33,7.17,10,10,10,7.08,0.11,Green
+Arabica,United States (Hawaii),kona,2012,7.17,7.5,6.92,7.33,7.67,7.33,9.33,10,10,7.08,0.12,Green
+Arabica,Brazil,cerrado - monte carmelo - minas gerais,2017 / 2018,7.17,7.33,7.42,7.08,7,7,10,10,10,7.25,0.11,Green
+Arabica,Honduras,comayagua,2016,7.25,7.25,7,7,7.42,7,10,10,10,7.33,0.1,Green
+Arabica,Mexico,sierra madre occidental,2016,7.25,7.17,7,7.33,7.33,7,10,10,10,7.17,0.1,Green
+Arabica,Myanmar,"yauk sauk, shan state",2015,8,7.08,7,7.33,7.08,6.92,10,10,10,6.83,0.11,Green
+Arabica,Myanmar,ywar ngan,2014,7.42,7,7.08,7,7.17,7.33,10,10,10,7.25,0,Green
+Arabica,Nicaragua,matagalpa,2015,7.08,6.92,7,7.25,7.5,7.25,10,10,10,7.25,0.11,Green
+Arabica,United States (Hawaii),kona,2014,7.5,7.08,7.67,7.67,7.42,7.58,9.33,9.33,9.33,7.33,0.12,Green
+Arabica,Taiwan,chiayi fanlu嘉義縣番路鄉,2013/2014,7.25,7.08,7.25,7.25,7.17,7.25,10,10,10,7,0.11,Green
+Arabica,Guatemala,oriente,2012,7,7.17,7.33,7.33,7,7.17,10,10,10,7.25,0.11,Green
+Arabica,Mexico,"calnali, hidalgo",2012,7.58,7.33,7.17,7.25,6.75,7,10,10,10,7.17,0.11,None
+Arabica,Honduras,marcala,2015,7.25,7.25,7,7.17,7.08,7.08,10,10,10,7.33,0.11,Green
+Arabica,Guatemala,oriente,2013,7.33,7.33,7,7.17,7.17,7.17,10,10,10,7,0.11,Green
+Arabica,Mexico,coatepec,2012,7.33,7.08,6.92,7.42,7.25,7.08,10,10,10,7.08,0.11,Green
+Arabica,Mexico,zaragoza itundujia,2012,7.58,7.42,7.33,7.5,7.08,7.17,8.67,10,10,7.42,0.14,Green
+Arabica,Mexico,veracruz,2012,7.33,7.33,7.17,7.08,7.25,7,10,10,10,7,0.12,Green
+Arabica,Guatemala,oriente,2012,7.33,7.33,7,7.33,7,7,10,10,10,7.17,0.11,Green
+Arabica,Brazil,mantiqueira de minas,2017 / 2018,7.17,7.17,7,7.17,7.25,7.25,10,10,10,7.08,0.11,Green
+Arabica,Taiwan,苗栗泰安,2014,7.42,7.25,7.25,7.17,7,7,10,10,10,7,0.07,Green
+Arabica,Taiwan,yunlin gukeng he bao 雲林縣古坑鄉荷苞村,2013/2014,7.25,7.25,7.25,7.25,7.08,7,10,10,10,7,0.11,Green
+Arabica,Taiwan,changhua baguashan 彰化市八卦山,2013/2014,7.25,7.25,7.25,7,7.25,7.08,10,10,10,7,0.11,Green
+Arabica,Taiwan,changhua baguashan 彰化市八卦山,2013/2014,7.25,7.25,7.25,7.08,7.17,7.08,10,10,10,7,0.11,Green
+Arabica,Mexico,zaragoza itundujia,2012,7.33,7.17,7.25,7.08,7.08,7.08,10,10,10,7.08,0.15,None
+Arabica,Mexico,escuitla,2012,7.25,7.08,7,7.17,7.33,7.17,10,10,10,7.08,0.14,Green
+Arabica,Nicaragua,jinotega,2017,7.33,7.08,6.92,7.08,7.42,7.17,10,10,10,7,0.1,Green
+Arabica,Myanmar,"doe kwin, pyin oo lwin",2015,7.17,7.33,7,7.42,7.17,7,10,10,10,6.92,0,Green
+Arabica,Mexico,"sierra fraylesca, chiapas",2014,7.58,7.75,7.42,7.5,7.5,7.5,8.67,8.67,10,7.42,0,Green
+Arabica,Taiwan,changhua baguashan 彰化市八卦山,2013/2014,7.25,7.25,7.25,7,7.25,7,10,10,10,7,0.11,Green
+Arabica,Thailand,thailand,2012,7.33,6.67,7.08,7.42,7.42,7.08,10,10,10,7,0,Green
+Arabica,Mexico,coatepec,2012,7.25,7.25,7.08,7.17,7.33,7.33,9.33,10,10,7.25,0.12,Green
+Arabica,Mexico,san miguel del puerto,2012,7.08,7.33,7,7.33,7.08,7,10,10,10,7.17,0.11,Green
+Arabica,Colombia,huila,2015,7.83,7.67,7.58,7.75,7.83,7.17,6.67,10,10,7.42,0,Green
+Arabica,United States (Hawaii),kona,2014,7.5,7,7,6.92,7.33,7.17,10,10,10,7,0.11,Green
+Arabica,Mexico,chiapas,2013,7.33,7.08,7.08,7.33,7.42,7.17,9.33,10,10,7.17,0.12,Green
+Arabica,Mexico,"motozintla, chiapas",2012,7.17,7.17,6.92,7.25,7.33,7.08,10,10,10,7,0.12,Green
+Arabica,Mexico,jaltenango,2012,7.17,7.08,7.08,7.08,7.5,7.33,9.33,10,10,7.33,0.11,Green
+Arabica,Mexico,coatepec,2012,7.33,7.25,7,7.42,7.17,7.17,9.33,10,10,7.25,0.12,Green
+Arabica,Mexico,veracruz,2012,7.17,7.33,7.08,7.58,7.33,7.08,10,9.33,10,7,0.11,Green
+Arabica,Guatemala,san marcos,2017,7.33,7.25,6.92,7.33,7.25,7.33,9.33,10,10,7.08,0.1,Green
+Arabica,Nicaragua,jinotega,2014,6.83,7.17,7.17,6.92,7.5,7.08,10,10,10,7.17,0.11,Green
+Arabica,Mexico,veracruz,2012,7.17,7.08,7,7.25,7.5,7,10,10,10,6.83,0.12,Green
+Arabica,United States (Hawaii),kona,2012,7.58,7.08,6.83,7.17,7.5,7.17,9.33,10,10,7.17,0.12,Blue-Green
+Arabica,Guatemala,oriente,2016,7.5,7.42,7.25,7.58,7.33,7.42,9.33,9.33,9.33,7.25,0.1,Green
+Arabica,Taiwan,"baihe dist., tainan city 臺南市白河區",2013,7.08,7.08,7.25,7,7.17,7.17,10,10,10,7,0.1,Blue-Green
+Arabica,Thailand,thailand,2013,7.25,7.08,6.92,7.5,7.08,6.92,10,10,10,7,0.12,Green
+Arabica,Peru,huanuco,2013,7,7.08,7,7.25,7.5,7.42,9.33,10,10,7.17,0.12,Green
+Arabica,Costa Rica,brunca,2013,7.58,7.5,7.67,7.75,7.67,7.58,8,8,10,8,0.1,Bluish-Green
+Arabica,Mexico,"la concordia, chiapas",2013,7.58,7.08,7,7,7.5,6.92,10,10,10,6.67,0.12,Green
+Arabica,Mexico,chiapas,2013,7.58,7.08,6.92,7.58,7.5,6.92,10,9.33,10,6.83,0.13,Green
+Arabica,Mexico,chiapas,2013,7.25,7.08,7,7.17,7.17,7.08,10,10,10,7,0.12,Green
+Arabica,Mexico,zaragoza itundujia,2012,7.25,7.17,7.17,7.08,7.17,7,10,10,10,6.92,0.14,None
+Arabica,Mexico,pochutla,2012,7.33,7.25,7,7.08,7.08,7,10,10,10,7,0.1,Green
+Arabica,Guatemala,antigua,2012,7.58,7.33,7.5,7.33,7,7.33,9.33,9.33,9.33,7.67,0,Green
+Arabica,Guatemala,oriente,2016,7.42,7.42,7.25,7.58,7.42,7.33,9.33,9.33,9.33,7.25,0.1,Green
+Arabica,El Salvador,cacahuatique,2016,7.25,7.08,7,6.83,7.33,7.17,10,10,10,7,0,Bluish-Green
+Arabica,Thailand,thailand,2013,6.92,7.17,6.83,7.42,7.17,7.08,10,10,10,7.08,0.12,Blue-Green
+Arabica,Guatemala,oriente,2013,7.5,7,6.83,7.08,7.08,7.17,10,10,10,7,0.11,Green
+Arabica,Mexico,"la concordia, chiapas",2013,7.42,7.25,6.83,7.58,7.17,6.58,10,10,10,6.83,0.12,Green
+Arabica,Mexico,"tenango de doria, hidalgo",2012,7.33,7.17,7,6.75,7.08,7,10,10,10,7.33,0.13,None
+Arabica,Mexico,tepetzingo,2012,7.08,7,6.92,7.33,7.25,7.08,10,10,10,6.92,0.12,None
+Arabica,Mexico,la concordia,2012,7.25,6.92,6.92,7.33,7.25,7,10,10,10,6.92,0.13,Green
+Arabica,Nicaragua,jinotega,2015,6.92,6.92,7,7.42,7.25,7,10,10,10,7,0.12,Green
+Arabica,Colombia,cundinamarca,2013,7.83,7.5,7.42,7.42,7.67,7.5,10,6.67,10,7.5,0,Green
+Arabica,Mexico,la concordia,2012,7.25,7.08,6.92,7.25,7.58,7.08,9.33,10,10,7,0.12,Green
+Arabica,Mexico,"coatepec, coatepec",2012,7.25,7.33,7,7.25,7.17,7.17,9.33,10,10,7,0.12,Bluish-Green
+Arabica,Guatemala,oriente,2013,7.08,7.33,7.25,7.58,7.33,7.42,9.33,9.33,9.33,7.42,0.1,Green
+Arabica,Guatemala,oriente,2014,7.25,7.33,6.83,7,7,7.17,10,10,10,6.83,0.1,Green
+Arabica,Mexico,xicotepec de juarez,2012,7,6.83,6.83,7.42,7.33,7.17,10,10,10,6.83,0.13,Green
+Arabica,Cote d?Ivoire,cnra station of divo,2016,7.42,7.25,6.83,7,7.33,7.08,9.33,10,10,7.08,0.13,Bluish-Green
+Arabica,Colombia,pereira,2013,7.42,7.25,6.75,7.25,7.42,7.25,9.33,9.33,10,7.33,0,Green
+Arabica,Mexico,zentla,2012,7,7,6.83,7.33,7.42,6.92,10,10,10,6.83,0.14,None
+Arabica,Mexico,zentla,2012,7.42,7.17,7.08,7.17,7.08,7.08,9.33,10,10,7,0.14,Green
+Arabica,Guatemala,oriente,2012,7.17,6.5,6.33,7.25,7.58,7.33,10,10,10,7.17,0.11,Green
+Arabica,Taiwan,natou county,2014,7.08,6.83,6.83,7.25,7.42,7.08,10,10,10,6.75,0.11,Blue-Green
+Arabica,Mexico,veracruz,2012,7,7,6.92,7.17,7.17,7.08,10,10,10,6.92,0.13,Green
+Arabica,Guatemala,santa rosa,2017,7.33,7.42,7.33,7.42,7.5,7.42,8.67,9.33,9.33,7.42,0.1,Green
+Arabica,Honduras,ocotepeque,2017,7.58,7,6.75,6.92,7,6.92,10,10,10,7,0.11,Green
+Arabica,Guatemala,occidente,2016,7.08,7,6.92,7.42,7,6.92,10,10,10,6.83,0.11,Green
+Arabica,Guatemala,nuevo oriente,2015,7.25,7.17,6.75,7.25,7,6.92,10,10,10,6.83,0.11,Green
+Arabica,Costa Rica,san rafael,2012,7.17,7.42,7.5,8,7.25,7.83,10,10,6.67,7.33,0.1,None
+Arabica,Mexico,zaragoza itundujia,2012,7.25,7.08,6.92,7.08,7.17,7.17,9.33,10,10,7.17,0.14,None
+Arabica,Mexico,yajalon,2012,7.17,6.92,6.92,7.08,7.17,7,10,10,10,6.92,0.14,Green
+Arabica,Guatemala,san marcos,2017,7.58,7.67,7.42,7.42,7.67,7.67,8.67,8.67,8.67,7.67,0.1,Green
+Arabica,United States (Puerto Rico),yauco region,2013,7.42,7.08,6.75,7.33,7.33,6.92,10,9.33,10,6.92,0.13,Green
+Arabica,Mexico,zaragoza itundujia,2012,7.33,7,6.92,7.25,7.33,7.08,9.33,10,10,6.83,0.16,None
+Arabica,Mexico,tlacuilotepec,2012,7.25,7.08,6.75,7.33,7.42,7,9.33,10,10,6.92,0.11,Green
+Arabica,Mexico,talpa de allende,2012,7.17,7.25,7.25,7.17,7.25,7.08,9.33,9.33,10,7.25,0.1,Bluish-Green
+Arabica,Guatemala,oriente,2014,7.33,7.17,6.58,7.42,7.08,6.83,10,10,10,6.58,0.12,Green
+Arabica,Honduras,intibuca,2014,7,7,7,7,7,7,10,10,10,7,0.11,Green
+Arabica,Mexico,"iliatenco, guerrero",2012,6.75,7.08,6.67,7.25,7.17,7.08,10,10,10,7,0.12,None
+Arabica,Mexico,zaragoza itundujia,2012,7.5,7.17,6.92,7.5,7.25,7,8.67,10,10,7,0.14,Green
+Arabica,Mexico,amatenango de la frontera,2012,7.17,6.83,6.83,7.25,7.17,6.92,10,10,10,6.83,0.14,Green
+Arabica,Mexico,"la concordia, chiapas",2013,7.33,7,6.75,7.08,7.17,7.25,9.33,10,10,7,0.12,Green
+Arabica,Mexico,zaragoza itundujia,2012,7.5,7,6.92,7.08,6.92,6.75,10,10,10,6.75,0.16,None
+Arabica,Nicaragua,jalapa,2016,7.17,7,6.92,7,7,7,10,10,10,6.75,0.1,Green
+Arabica,United States (Hawaii),kona,2013,7.5,6.92,6.92,7.25,7.58,7.42,9.33,9.33,9.33,7.17,0.12,Green
+Arabica,Guatemala,oriente,2013,7.33,7.08,6.33,7.25,7,7,10,10,10,6.75,0.12,Green
+Arabica,Mexico,veracruz,2012,7.25,6.83,6.83,7,7.17,7,10,10,10,6.67,0.14,Green
+Arabica,Mexico,veracruz,2012,7.25,7.33,7.17,7.25,7.08,7,8.67,10,10,7,0.14,None
+Arabica,China,yunnan,2013,7,6.92,6.83,7.17,7.17,7.17,10,10,9.33,7.08,0,Green
+Arabica,Mexico,yecuatla,2012,6.92,6.92,6.67,7.25,7.17,6.92,10,10,10,6.83,0.13,None
+Arabica,Nicaragua,nueva segovia,2016,7.08,7,6.75,6.83,7.08,6.92,10,10,10,6.92,0.1,Green
+Arabica,Guatemala,oriente,2014,7.33,7.17,6.92,7.58,7.25,7.17,8.67,9.33,10,7.17,0.12,Green
+Arabica,Taiwan,"dongshan dist., tainan city 臺南市東山區",2013,6.83,6.75,7.17,7.25,7,6.92,10,10,10,6.67,0.1,Green
+Arabica,Mexico,tapachula,2012,7,7,6.75,7.33,6.92,6.92,10,10,10,6.67,0.13,Green
+Arabica,Mexico,"sierra, chiapas",2014,7.25,6.75,6.92,6.92,7.25,7.58,9.33,9.33,10,7.17,0,Green
+Arabica,Mexico,villa talea de castro,2012,7.08,6.83,6.83,7,7,6.92,10,10,10,6.83,0.12,None
+Arabica,Mexico,los angeles,2012,7.25,7.17,7,6.83,7.58,7.08,8.67,10,10,6.92,0.13,Green
+Arabica,Brazil,monte carmelo,2014/2015,6.83,7,6.92,7.08,6.92,6.83,10,10,10,6.83,0.12,Green
+Arabica,Mexico,zaragoza itundujia,2012,7.58,7.17,7,7.17,7.33,7,8,10,10,7.17,0.14,None
+Arabica,United States (Hawaii),kona,2014,7.5,7.75,7.58,7.83,7.92,7.92,7.33,8,8.67,7.83,0.1,Bluish-Green
+Arabica,Guatemala,oriente,2014,7.17,6.5,6.67,7,7.17,7.17,10,10,10,6.67,0.1,Green
+Arabica,Guatemala,oriente,2012,7.17,7.17,6.5,7.17,7,6.83,10,10,10,6.5,0.11,Green
+Arabica,Mexico,"xochitonalco, huautla",2012,7.25,7.25,7,7.5,7.33,7.42,8,9.33,10,7.75,0.13,Green
+Arabica,Guatemala,oriente,2012,7.17,6.08,6.17,7.25,7.33,7.33,10,10,10,7,0.11,Green
+Arabica,United States (Hawaii),kona,2014,7.5,7.5,7.33,7.58,7.5,7.42,8.67,8.67,8.67,7.42,0.11,Green
+Arabica,United States (Hawaii),kona,2012,7.42,7.33,7.33,7.5,7.67,7.75,8,8.67,9.33,7.25,0.11,Green
+Arabica,Mexico,cordoba,2012,7.08,6.83,6.67,7.25,7.25,6.92,10,9.33,10,6.75,0.11,Green
+Arabica,Taiwan,"台南市東山區( dongshan dist., tainan city)",2016,7.5,7.08,7.33,7.17,7.5,7.5,6.67,10,10,7.25,0,Green
+Arabica,Honduras,intibuca,2014,6.83,7,6.67,7,7,6.83,10,10,10,6.67,0.11,Green
+Arabica,United States (Hawaii),kona,2014,7.58,7.33,7.5,7.42,7.5,7.33,8,8.67,9.33,7.33,0.12,Green
+Arabica,Guatemala,oriente,2014,7.42,7.25,6.83,7.33,7,6.92,9.33,9.33,9.33,7.25,0.1,Green
+Arabica,China,yunnan,2013,7.33,7.17,6.92,7.08,7.33,7,9.33,9.33,9.33,7.17,0.1,Green
+Arabica,Guatemala,oriente,2013,7,6.83,6.83,7.17,6.67,6.83,10,10,10,6.67,0.11,Green
+Arabica,Mexico,"motozintla, chiapas",2012,7.25,7.33,7,7,7.25,7.08,10,10,8,7.08,0.12,Green
+Arabica,Costa Rica,occidental,2014,7.5,7.25,7.42,7,7.08,6.83,8.67,9.33,10,6.83,0.12,Green
+Arabica,Mexico,petatlan,2012,7.42,7.25,7,7,7.25,7.08,8,10,10,6.92,0.11,Green
+Arabica,Guatemala,oriente,2012,7.17,6.17,6.17,7.08,7.33,6.83,10,10,10,7.17,0.11,Green
+Arabica,Nicaragua,jinotega,2016,7.42,7,7,7.17,7.08,7,9.33,8.67,10,7.17,0.1,Bluish-Green
+Arabica,Guatemala,oriente,2013,7,6.83,6.67,7.17,6.83,6.83,10,10,10,6.5,0.11,Green
+Arabica,Taiwan,"dongshan dist., tainan city 臺南市東山區",2012,7.17,6.75,6.58,7.33,7.33,7.17,9.33,9.33,10,6.67,0.11,Bluish-Green
+Arabica,United States (Hawaii),kona,2013,7.58,7.67,7.58,7.67,7.42,7.42,9.33,9.33,6,7.58,0.12,Green
+Arabica,Mexico,coatepec,2012,7.17,6.75,6.58,6.75,6.83,6.75,10,10,10,6.67,0.13,Green
+Arabica,Guatemala,oriente,2013,7.08,6.92,6.33,7,6.92,7,10,10,10,6.17,0.11,Green
+Arabica,Brazil,south of minas,2017 / 2018,7.5,7.33,7.42,7.58,7.58,6.92,8,8,10,7,0,Green
+Arabica,Guatemala,oriente,2014,7.33,7,6.83,7.17,7.17,7.17,9.33,9.33,9.33,6.67,0.1,Green
+Arabica,Mexico,zaragoza itundujia,2012,7.33,7,6.67,7,6.92,6.92,9.33,9.33,10,6.83,0.15,None
+Arabica,United States (Hawaii),kona,2013,7.08,6.92,6.83,6.67,7.58,7.42,8.67,9.33,10,6.75,0.12,Green
+Arabica,Mexico,"motozintla, chiapas",2012,7.08,7,7,7.25,7.33,7.25,8.67,8.67,10,6.92,0.12,Green
+Arabica,Peru,san ignacio,2014,7.42,7.75,7.42,7.67,7.92,7.83,8.67,5.33,9.33,7.67,0,Green
+Arabica,India,chickmangalore,2016,7.67,7.33,7.17,6.67,7.17,7.42,9.33,10,6.67,7.42,0,Green
+Arabica,Guatemala,oriente,2012,6.42,6.5,6.5,7.33,6.33,6.92,10,10,10,6.5,0.12,None
+Arabica,Mexico,coatepec,2012,7.17,6.58,6.58,7,7.25,6.58,9.33,9.33,10,6.58,0.13,Green
+Arabica,Guatemala,oriente,2012,7.5,7,6.83,7.5,7.17,7.33,8.67,8.67,8.67,7,0.11,Green
+Arabica,United States (Hawaii),kona,2014,7.25,7.08,6.83,7.17,7.33,6.83,8.67,8.67,9.33,7.08,0,Green
+Arabica,United States (Hawaii),kona,2013,7.5,7.33,7.33,7.58,7.67,7.25,8,8,8,7.5,0,Bluish-Green
+Arabica,Mexico,zaragoza itundujia,2012,7.42,7,6.83,7.08,6.92,6.83,7.33,10,10,6.75,0.16,None
+Arabica,Indonesia,indonesia,2011,7.33,7,6.5,6.08,7.58,6.33,9.33,10,9.33,6.67,0.12,None
+Arabica,Mexico,tepictla,2012,7.08,6.83,6.83,7.17,7.17,7.08,10,7.33,10,6.58,0.12,Green
+Arabica,Honduras,intibuca,2014,6.83,6.83,6.67,6.83,7,6.83,9.33,8.67,10,7,0.11,Green
+Arabica,Philippines,"benguet, mountain province",2012,6.83,6.5,6.5,6.92,6.75,7,9.33,10,9.33,6.67,0.12,Green
+Arabica,Brazil,monte carmelo,2017 / 2018,7.17,7,6.83,7.5,7.17,7,8,8,10,7,0.11,Green
+Arabica,Guatemala,oriente,2012,7.92,7.58,7.17,7.58,7.33,7.17,8,8,8,6.83,0.11,Green
+Arabica,Mexico,tlacuilotepec,2012,7.5,7.25,6.92,7,7.17,6.83,8,8,10,6.83,0.11,Green
+Arabica,Mexico,ocosingo,2012,7.17,6.92,6.67,6.83,7.25,7.75,10,6,10,6.58,0.11,Green
+Arabica,Mexico,huautla de jimenez,2012,7.17,7.17,6.83,7.17,7.42,6.67,8.67,7.33,10,6.75,0.13,Bluish-Green
+Arabica,Mexico,menglian,2012,7,6.92,6.75,6.92,7.17,6.83,10,6.67,10,6.75,0.14,Green
+Arabica,Mexico,zaragoza itundujia,2012,7.08,6.75,6.58,7,7,6.75,8.67,8.67,10,6.42,0.17,None
+Arabica,Mexico,coatepec,2012,7.33,6.75,6.67,7.25,7.5,7,10,5.33,10,7,0.12,Green
+Arabica,Mexico,chiapas,2013,7.08,7,6.83,7.5,7.33,6.83,8,7.33,10,6.75,0.12,Green
+Arabica,United States (Hawaii),kona,2014,7.5,7.25,7,7.25,7.42,7.33,8,8.67,6.67,7.33,0,Blue-Green
+Arabica,Guatemala,oriente,2013,6.5,6.33,6.5,7.5,7.33,6.83,8.67,10,8.67,6,0.11,Green
+Arabica,Mexico,"chocaman, veracruz",2012,7,6.58,6.67,6.83,7.08,6.83,10,6.67,10,6.67,0.14,Green
+Arabica,Mexico,xalapa,2012,6.92,6.42,6.17,7.33,7.25,6.75,10,6.67,10,6.5,0.13,None
+Arabica,Mexico,coatepec,2012,7.67,7,7.17,7.58,7.33,7.33,10,2.67,10,7.08,0.12,Green
+Arabica,Brazil,campos altos - cerrado,2016,7.25,6.58,6.58,7,7,6.42,8,8,10,6.67,0.11,Green
+Arabica,Honduras,intibuca,2014,7,7.17,6.83,7.17,7,7.17,8,8,8,7.08,0.11,Green
+Arabica,United States (Hawaii),kona,2014,6.92,6.92,6.92,7.5,7.58,7.17,6.67,6.67,9.33,6.92,0.11,Green
+Arabica,Costa Rica,occidental,2014,6.33,6.5,6.33,6.83,6.33,6.5,10,6.67,10,6.25,0.11,Green
+Arabica,Mexico,tlatlauquitepec,2012,6.92,6.92,6.92,6.92,7.17,7,10,2.67,10,6.58,0.12,Green
+Arabica,Mexico,veracruz,2012,6.5,6.67,6.42,7.17,7.33,6.5,8,6,10,6.42,0.11,Green
+Arabica,Mexico,"sierra norte yajalon, chiapas",2014,6.92,7,6.83,6.92,7.42,6.92,6,6,10,6.75,0.12,Green
+Arabica,Brazil,cerrado,2017 / 2018,7,7,6.83,7,7.33,6.83,6,6,10,6.67,0.11,Green
+Arabica,Honduras,marcala,2014,6.67,6.5,6.17,6.67,6.83,6.17,8,8,8,6.33,0.1,Green
+Arabica,Honduras,marcala,2014,7,6.17,6.17,6.67,6.5,6.17,8,8,8,6.5,0.1,Green
+Arabica,Honduras,marcala,2014,7,6.33,6.17,6.5,6.67,6.17,8,8,8,6.33,0.1,Green
+Arabica,Mexico,juchique de ferrer,2012,7.08,6.83,6.25,7.42,7.25,6.75,10,0,10,6.75,0.11,None
+Arabica,Haiti,"department d'artibonite , haiti",2012,6.75,6.58,6.42,6.67,7.08,6.67,9.33,6,6,6.42,0.14,Blue-Green
+Arabica,Nicaragua,jalapa,2016,7.25,6.58,6.33,6.25,6.42,6.08,6,6,6,6.17,0.13,Green
+Arabica,Guatemala,nuevo oriente,2012,7.5,6.67,6.67,7.67,7.33,6.67,8,1.33,1.33,6.67,0.1,Green
+Arabica,Honduras,comayagua,2017,0,0,0,0,0,0,0,0,0,0,0.12,Green
+Robusta,Uganda,sheema south western,2013,7.83,8.08,7.75,7.92,8.25,7.92,10,10,8,8,0.12,Green
+Robusta,India,chikmagalur,2015,7.92,7.83,7.92,8,7.83,7.92,10,10,7.83,8,0,Green
+Robusta,Uganda,central,2013,8,7.92,7.92,7.75,7.83,7.75,10,10,7.75,8.08,0.12,Green
+Robusta,Uganda,luwero central region,2013,8.33,7.83,7.83,7.75,8.25,7.75,10,10,7.58,7.67,0.12,Green
+Robusta,India,chikmagalur,2012,8,7.92,7.67,8,7.75,7.92,10,10,7.75,7.75,0,Green
+Robusta,India,chikmagalur,2014,7.67,7.75,7.83,7.83,7.92,7.75,10,10,8,7.83,0,Green
+Robusta,India,chikmagalur karnataka india,2017,7.67,7.75,7.83,7.67,7.92,7.83,10,10,7.92,7.92,0.1,Bluish-Green
+Robusta,India,chikmagalur karnataka,2015,7.67,7.75,7.58,7.83,7.83,8,10,10,7.92,7.92,0.09,Green
+Robusta,Uganda,western,2014,7.67,7.83,7.83,7.83,7.92,7.75,10,10,7.75,7.83,0.12,Green
+Robusta,Uganda,iganga namadrope eastern,2014,7.58,7.92,7.75,7.83,7.5,7.67,10,10,7.67,7.83,0.12,Green
+Robusta,India,chikmagalur karnataka,2015,7.67,7.83,7.75,7.5,7.75,7.58,10,10,7.75,7.75,0.11,Green
+Robusta,India,chikmagalur,2014,7.58,7.58,7.67,7.58,7.67,7.67,10,10,7.5,8.33,0,Green
+Robusta,Uganda,eastern,2013,8,7.75,7.75,7.58,7.67,7.5,10,10,7.58,7.67,0.11,Green
+Robusta,Uganda,south western,2014,8,7.67,7.75,7.5,7.67,7.58,10,10,7.58,7.75,0.12,Green
+Robusta,India,chikmagalur,2015,7.75,7.75,7.67,7.67,7.58,7.58,10,10,7.58,7.83,0,Green
+Robusta,India,chikmagalur,2013,7.5,7.5,7.25,7.83,7.67,7.83,10,10,7.83,7.83,0.13,Blue-Green
+Robusta,Uganda,western,2013,7.33,7.58,7.5,7.75,7.75,7.67,10,10,7.75,7.58,0.12,Green
+Robusta,Uganda,western,2013,7.83,7.58,7.33,7.67,7.5,7.5,10,10,7.75,7.42,0.12,Green
+Robusta,Uganda,southern,2013,7.75,7.42,7.33,7.58,7.67,7.58,10,10,7.67,7.5,0.12,Green
+Robusta,India,chikmagalur,2014,7.67,7.67,7.5,7.33,7.58,7.5,10,10,7.42,7.5,0,Bluish-Green
+Robusta,India,chikmagalur,2013,7.58,7.42,7.42,7.83,7.42,7.5,10,10,7.42,7.58,0,Green
+Robusta,United States,chikmagalur,2012,7.92,7.5,7.42,7.42,7.42,7.42,9.33,10,7.58,7.33,0,Green
+Robusta,Ecuador,"san juan, playas",2016,7.75,7.58,7.33,7.58,5.08,7.83,10,10,7.75,7.83,0,Blue-Green
+Robusta,Ecuador,"san juan, playas",2016,7.5,7.67,7.75,7.75,5.17,5.25,10,10,8.42,8.58,0,Blue-Green
